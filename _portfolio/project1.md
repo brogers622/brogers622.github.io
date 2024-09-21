@@ -4,7 +4,7 @@ subtitle: NASA Ames Research Center, Exobiology Branch, 2017-2018
 image: assets/img/portfolio/ames-print.png
 
 caption:
-  title: Research Assistatn
+  title: Research Assistant
   subtitle: NASA Ames Research Assistant
   thumbnail: assets/img/portfolio/nasa-logo.png
 ---
