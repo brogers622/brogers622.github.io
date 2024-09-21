@@ -17,6 +17,8 @@ From the Summer of 2017 to the Spring of 2018, during a gap year between high sc
 
 ### Volatile Ice Rheology Instrument Proposal
 I provided design input and CAD drawings for a funding proposal for the design and manufacture of an instrument intended to measure the rheological properties of ice. It was submitted in December 2017 to Dr. Michael Bicay, Director of Science at NASA Ames Research Center. I contributed the 3D CAD drawings of the proposed instrument on page 12 of the proposal. A pdf of the proposal can be accessed (https://drive.google.com/file/d/1LzKrghSNgKhpZlSLACby9nEdcGHyVoBi/view?usp=drive_link "here").
+
+![nasa_logo](assets/img/portfolio/nasa-logo.png)
 ### H3
 ### H3
 ### H3
