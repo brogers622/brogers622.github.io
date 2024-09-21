@@ -2,6 +2,7 @@
 title: Test Project title 1
 subtitle: a cheeky example subtitle
 image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/02-full.jpg
 alt: Shirts on a hanger
 
 caption:
