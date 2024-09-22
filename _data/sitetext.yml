@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bryce Rogers Portfolio adding timeline to about
+    title: Bryce Rogers Portfolio removed a service
     text: Welcome
     button: Browse
     buttonlink: "#about"
@@ -21,34 +21,6 @@ en: &DEFAULT_EN
     text: "our story"
     body: "A long string describing who i am"
     section: about
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Amador Valley High School"
-        year: "2013-2017"
-        desc: "A high school in the East Bay with lots of lovely students and teachers. The cradle of my interests in math and physics!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Gasp year / NASA Ames Research Center"
-        year: "2017-2018"
-        desc: "I took a gap year between high school and college to stay close to family during this year. "
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-
 
   timeline:
     title: "Timeline"
@@ -98,9 +70,9 @@ en: &DEFAULT_EN
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+[//]: #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+[//]: #        desc: "Your description here, full **Markdown** support"
+[//]: #        icon: fab fa-markdown
 
   clients:
     section: clients
