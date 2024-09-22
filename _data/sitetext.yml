@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Welcome to our Studio!
     text: starting anew
-    button: starting anewtwo
+    button: starting anewtwothree
     buttonlink: "#services"
 
   services:
