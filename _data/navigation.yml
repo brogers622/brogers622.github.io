@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "LinkedIn"
+      url: https://www.linkedin.com/in/brycerogers1/
       
 en-US:
   <<: *DEFAULT_EN
