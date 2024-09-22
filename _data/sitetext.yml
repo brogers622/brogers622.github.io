@@ -32,14 +32,14 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "Highlighted Projects"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "A graphical history of my technical life"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -69,9 +69,24 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Introduction"
+    text: ""
+    body: ">Hi, I'm Bryce! I'm a Brooklyn-based mechanical engineer with experience in physics-based simulation, biomechanics,
+    and early-stage hard tech statups.
+    
+    I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been
+    grateful to have had the opportunity to engage in a diversity of technical fields,including exobiology research at NASA Ames to
+    3D modelling of auto parts, aortic hemodynamic research, recombinant protein production, bioreactor design for microbial methanol production, and shrimp-shell-based
+    alternative leather manufacturing.
+
+    first principles thinking, purpose of 
+    zoomed in/zoomed view
+    how this component of the project
+
+    In every role I occupy, I strive for mastery and impact. Feeling that I have expertise in the role I occupy 
+    And having experience ascertaining expertise in multiple role in multiple fields has given me a lot of practice becoming 
+    an expert in a role, and expands my view of the technical and beutiful connections that exist between even apparently dissimilar
+    tasks, fields, or missions."
     section: about
 
   clients:
