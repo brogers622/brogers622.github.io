@@ -54,19 +54,19 @@ en: &DEFAULT_EN
         desc: "I took a gap year between high school and college to stay close to family. During that year I assisted exobiology research at NASA Ames Research Center."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "University of Southern California"
+        year: "2018-2022"
+        desc: "I moved from the Bay to LA to study mechanical engineering. During my time there, I did ~2.5 years cardiovascular fluid dynamics research, did a hydroelectic design internship, briefly studied abroad in New Zealand, and took my first dance classes!"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Hard Tech in the Big Apple"
+        year: "2023-"
+        desc: "I joined Edge Foods as Lead Bioprocess Engineer and moved to New York City. Since then I've also done bioreactor and process design at Carbonbridge, leather proccessing scale up at TomTex, and some catering and Lindy Hop on the side!"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "..."
 
   about:
     title: "Introduction"
