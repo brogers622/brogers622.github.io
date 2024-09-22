@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bryce Rogers Portfolio hopefully reordered sections
+    title: Bryce Rogers Portfolio adding timeline to about
     text: Welcome
     button: Browse
     buttonlink: "#about"
@@ -21,6 +21,14 @@ en: &DEFAULT_EN
     text: "our story"
     body: "A long string describing who i am"
     section: about
+    events:
+      - title: "Amador Valley High School"
+        year: "2013-2017"
+        desc: "A high school in the East Bay with lots of lovely students and teachers. The cradle of my interests in math and physics!"
+        image: assets/img/timeline/1.jpg
+        alt:
+    end: "Be Part <br> of Our <br> Story!"
+
 
   timeline:
     title: "Timeline"
