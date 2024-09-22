@@ -19,32 +19,27 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     [//]: # text: "our story"
-    body: ">Hello, I'm Bryce! I'm a Brooklyn-based mechanical engineer with experience in physics-based simulation, biomechanics,
-    and early-stage hard tech statups grew up in the East San Fancisco Bay Area, attended undergrad at USC in Los Angeles, and moves to Brooklyn in 2023."
+    body: ">Hi, I'm Bryce! I'm a Brooklyn-based mechanical engineer with experience in physics-based simulation, biomechanics,
+    and early-stage hard tech statups.
+    
+    I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been
+    grateful to have had the opportunity to engage in a diversity of technical fields,including exobiology research at NASA Ames to
+    3D modelling of auto parts, aortic hemodynamic research, recombinant protein production, bioreactor design for microbial methanol production, and shrimp-shell-based
+    alternative leather manufacturing.
+
+    first principles thinking, purpose of 
+    zoomed in/zoomed view
+    how this component of the project
+
+
+    
+    In every role I occupy, I strive for mastery and impact. Feeling that I have expertise in the role I occupy 
+    And having experience ascertaining expertise in multiple role in multiple fields has given me a lot of practice becoming 
+    an expert in a role, and expands my view of the technical and beutiful connections that exist between even apparently dissimilar
+    tasks, fields, or missions.
     section: about
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
-
-  timeline:
+timeline:
     title: "Timeline"
     text: "Lorem ipsum timeline"
     section: timeline
@@ -74,6 +69,27 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
+
+  services:
+    title: "Services"
+    text: "Lorem ipsum"
+    section: services
+    list:
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+
+  portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
 
   clients:
     section: clients
