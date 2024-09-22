@@ -1,7 +1,8 @@
-
-notes.txt
-_site
+*.gem
+.bundle
 .sass-cache
-.jekyll-metadata
 .jekyll-cache
+_site
 Gemfile.lock
+unused
+bootstrap-reference.html

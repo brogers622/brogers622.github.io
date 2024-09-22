@@ -1,0 +1,48 @@
+Notes, outlining, etc
+
+Want to have site able to be shown during climate week - can keep updating it but even monday it should be presentable
+
+Sections:
+- title: "About"
+first, high level overview+intro
+
+- title: "Timeline"
+more detailed+graphical overview of my history - the times, locations, organizations, and roles I've had
+
+- title: "Portfolio"
+detailed descriptions of my most impressive projects/roles
+
+Include:
+- title: "Services"
+turn this into a skills section?
+
+- title: "Team"
+could be combined with contact? A photo, resume link, detailed portfolio link?, an LI link are probl all i need
+
+- title: "Contact"
+combine w team?
+
+- title: "Theme Source"
+Should probably delete this. I love the idea of keeping it in the spirit of open source, but its probably a better look not to have it
+
+
+
+
+
+
+
+
+Random
+Should probably delete the sponsors? or maybe replace with places ive been? But that could be redundant with the Timeline
+just delete all the spanish translated sections?
+
+
+Deleted snippets of code:
+
+form navigation
+    - title: "Team"
+      section: team
+
+from config
+#theme: jekyll-agency
+remote_theme: brogers622/agency-jekyll-theme
