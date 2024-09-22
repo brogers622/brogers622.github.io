@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bryce Rogers Portfolio deleted spanish in navigation
+    title: Bryce Rogers Portfolio hopefully reordered sections
     text: Welcome
     button: Browse
     buttonlink: "#about"
 
   about:
-    title: "About Us"
+    title: "About Bryce"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "A long string describing who i am"
     section: about
 
   timeline:
