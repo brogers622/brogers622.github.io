@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bryce Rogers Portfolio
+    title: Bryce Rogers Portfolio deleted spanish in navigation
     text: Welcome
     button: Browse
     buttonlink: "#about"
@@ -29,14 +29,14 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Amador Valley High School"
+        year: "2013-2017"
+        desc: "A high school in the East Bay with lots of lovely students and teachers. The cradle of my interests in math and physics!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Gasp year / NASA Ames Research Center"
+        year: "2017-2018"
+        desc: "I took a gap year between high school and college to stay close to family during this year. "
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Jekyll Theme is created"
