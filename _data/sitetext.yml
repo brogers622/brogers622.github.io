@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bryce Rogers Portfolio added service
+    title: Bryce Rogers Portfolio body in service, item in about
     text: Welcome
     button: Browse
     buttonlink: "#about"
@@ -21,6 +21,10 @@ en: &DEFAULT_EN
     text: "our story"
     body: "A long string describing who i am"
     section: about
+    list:
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
 
   timeline:
     title: "Timeline"
@@ -73,9 +77,8 @@ en: &DEFAULT_EN
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+    body: "A long string describing who i am"
+
 
   clients:
     section: clients
