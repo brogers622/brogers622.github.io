@@ -32,22 +32,22 @@ en: &DEFAULT_EN
       - title: "Amador Valley High School"
         year: "2013-2017"
         desc: "A high school in the East Bay full of lovely students and teachers! The cradle of my interests in math and physics."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/avhs.png
         alt:
       - title: "Gap Year Exobio Research"
         year: "2017-2018"
         desc: "I took a gap year between high school and college to stay close to family. During that year I assisted exobiology research at NASA Ames Research Center."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/nasa.png
         alt:
       - title: "University of Southern California"
         year: "2018-2022"
         desc: "I moved from the Bay to LA to study mechanical engineering. In addition to my coursework, I did ~2.5 years cardiovascular fluid dynamics research, had a hydroelectic design internship, briefly studied abroad in New Zealand, and took my first dance classes!"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/viterbi.png
         alt: image alt text
       - title: "Hard Tech in the Big Apple"
         year: "2023-"
         desc: "I moved to New York City and joined Edge Foods as Lead Bioprocess Engineer in the first months of 2023. Since, I've also done bioreactor and process design at Carbonbridge and shrimp-based leather processing scale up at TomTex. I've also done some catering, tutoring, and Lindy Hop on the side!"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/nyc.jpg
         alt:
         # you can enforce the alignment
         align: right
