@@ -5,15 +5,11 @@ image: assets/img/portfolio/01-full.jpg
 alt: none
 
 caption:
-  title: Research Assistant
-  subtitle: NASA Ames Research Assistant
+  title: Exobiology Research Assitance
+  subtitle: NASA Ames Research Center
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-From the Summer of 2017 to the Spring of 2018, during a gap year between high school and college, I worked at NASA Ames Research Center as an exobiology research assistant under the leadership of [Dr. Christoper McKay](https://en.wikipedia.org/wiki/Christopher_McKay). I provided engineering and research assistance on varied projects, the most significant of which were
-1. Volatile Ice Rheology Instrument Proposal
-2. Mars Habitat Protype
-3. ELSAH Collector Cone Design Research
-4. Icebreaker Biobarrier Concept Build 
+From the Summer of 2017 to the Spring of 2018, during a gap year between high school and college, I worked at NASA Ames Research Center as an exobiology research assistant under the leadership of [Dr. Christoper McKay](https://en.wikipedia.org/wiki/Christopher_McKay). I provided engineering and research assistance on varied projects, the most significant of which were **Volatile Ice Rheology Instrument Proposal**, **Mars Habitat Protype**, **ELSAH Collector Cone Design Research**, and **Icebreaker Biobarrier Concept Build**.
 
 ### Volatile Ice Rheology Instrument Proposal
 I provided design input and CAD drawings for a funding proposal for the design and manufacture of an instrument intended to measure the rheological properties of ice. It was submitted in December 2017 to Dr. Michael Bicay, Director of Science at NASA Ames Research Center. I contributed the 3D CAD drawings of the proposed instrument on page 12 of the proposal. A pdf of the proposal can be accessed [here](https://drive.google.com/file/d/1LzKrghSNgKhpZlSLACby9nEdcGHyVoBi/view?usp=drive_link).
