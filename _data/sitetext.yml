@@ -51,7 +51,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "..."
+[//]: #    end: "..."
 
   about:
     title: "Introduction"
