@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bryce Rogers!
+    title: Bryce Rogers
     text: Portfolio
     button: Browse
     buttonlink: "#team"
