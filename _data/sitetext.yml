@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Highlighted Projects"
-    text: "An in-depth look at some projects I'm proud of"
+    text: "An in-depth showcase of select projects"
     section: portfolio
     closebutton: "Close Project"
 
@@ -37,7 +37,7 @@ en: &DEFAULT_EN
       - title: "Gap Year Exobio Research"
         year: "2017-2018"
         desc: "I took a gap year between high school and college to stay close to family. During that year I assisted exobiology research at NASA Ames Research Center."
-        image: assets/img/timeline/nasa.png
+        image: assets/img/timeline/nasa2.png
         alt:
       - title: "University of Southern California"
         year: "2018-2022"
