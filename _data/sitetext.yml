@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: starting anew
-    button: starting anewtwothree
-    buttonlink: "#services"
+    title: Bryce Rogers!
+    text: Portfolio
+    button: Browse
+    buttonlink: "#team"
 
   portfolio:
     title: "Highlighted Projects"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "An in-depth look at some projects I'm proud of"
     section: portfolio
     closebutton: "Close Project"
 
@@ -56,7 +56,7 @@ en: &DEFAULT_EN
   about:
     title: "Introduction"
     text: "I might delete this section and replace it with team"
-    body: "text here"
+    body: "main text here"
     section: about
 
   team:
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been greatful
     to have been able to engage in a diversity of technical fields during my technical life thus far, including exobiology research at NASA Ames,
     3D CAD contracting for auto parts manufacturing, aortic hemodynamics research, recombinant protein processing, bioreactor design
-    for microbial methanol production, and shrimp-shell-based alternative leather manufacturing.
+    for microbial methanol production, and shrimp-shell-based alternative leather manufacturing.\n\n
     
     In each role I occupy, I pursue the expertise necessary for creative and goal-oriented problem solving.
     In doing so I've gained an appreciation for many fields' unique subject matters and developed a strategies for
