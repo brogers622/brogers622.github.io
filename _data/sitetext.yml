@@ -34,69 +34,52 @@ en: &DEFAULT_EN
         desc: "A high school in the East Bay full of lovely students and teachers! The cradle of my interests in math and physics."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Gap Year / NASA Ames Research Center"
+      - title: "Gap Year Exobio Research"
         year: "2017-2018"
         desc: "I took a gap year between high school and college to stay close to family. During that year I assisted exobiology research at NASA Ames Research Center."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "University of Southern California"
         year: "2018-2022"
-        desc: "I moved from the Bay to LA to study mechanical engineering. During my time there, I did ~2.5 years cardiovascular fluid dynamics research, did a hydroelectic design internship, briefly studied abroad in New Zealand, and took my first dance classes!"
+        desc: "I moved from the Bay to LA to study mechanical engineering. In addition to my coursework, I did ~2.5 years cardiovascular fluid dynamics research, had a hydroelectic design internship, briefly studied abroad in New Zealand, and took my first dance classes!"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Hard Tech in the Big Apple"
         year: "2023-"
-        desc: "I joined Edge Foods as Lead Bioprocess Engineer and moved to New York City. Since then I've also done bioreactor and process design at Carbonbridge, leather proccessing scale up at TomTex, and some catering and Lindy Hop on the side!"
+        desc: "I moved to New York City and joined Edge Foods as Lead Bioprocess Engineer in the first months of 2023. Since, I've also done bioreactor and process design at Carbonbridge and shrimp-based leather processing scale up at TomTex. I've also done some catering, tutoring, and Lindy Hop on the side!"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "..."
+    end: "To Be Continued..."
 
   about:
     title: "Introduction"
-    text: ""
-    body: ">Hi, I'm Bryce! I'm a Brooklyn-based mechanical engineer with experience in physics-based simulation, biomechanics,
-    and early-stage hard tech statups.\n\n
-    
-    I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been
-    grateful to have been able to engage in a multitude of technical fields, including exobiology research at NASA Ames,
-    3D modelling for auto parts manufacture, aortic hemodynamics research, recombinant protein production and processing, bioreactor design for microbial methanol production, and shrimp-shell-based
-    alternative leather manufacturing.
-    
-    In each role I occupy, I strive to achieve the expertise necessary for creative and goal-oriented problem solving.
-    In doing so I've gained an appreciation for many fields' unique subject matters and developed a collection of strategies for
-    applied technical learning. I find that even apparently very dissimilar technical projects can be tackled via first principles thinking combined with high-level
-    goal orientedness and enthusiastic curiosity!"
+    text: "I might delete this section and replace it with team"
+    body: "text here"
     section: about
 
   team:
-    title: "Introduction?"
-    text: "subtitle?."
+    title: "I'm Bryce"
+    text: "a brief introduction"
     subtext: ">Hi, I'm Bryce! I'm a Brooklyn-based mechanical engineer with experience in physics-based simulation, biomechanics,
-    and early-stage hard tech statups.\n\n
+    and early-stage hard tech statups. In addition to physics-based problem solving, I like to dance, cook for friends,
+    and play games of many kinds.\n\n
     
-    I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been
-    grateful to have been able to engage in a multitude of technical fields, including exobiology research at NASA Ames,
-    3D modelling for auto parts manufacture, aortic hemodynamics research, recombinant protein production and processing, bioreactor design for microbial methanol production, and shrimp-shell-based
-    alternative leather manufacturing.
+    I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been greatful
+    to have been able to engage in a diversity of technical fields during my technical life thus far, including exobiology research at NASA Ames,
+    3D CAD contracting for auto parts manufacturing, aortic hemodynamics research, recombinant protein processing, bioreactor design
+    for microbial methanol production, and shrimp-shell-based alternative leather manufacturing.
     
-    In each role I occupy, I strive to achieve the expertise necessary for creative and goal-oriented problem solving.
-    In doing so I've gained an appreciation for many fields' unique subject matters and developed a collection of strategies for
-    applied technical learning. I find that even apparently very dissimilar technical projects can be tackled via first principles thinking combined with high-level
+    In each role I occupy, I pursue the expertise necessary for creative and goal-oriented problem solving.
+    In doing so I've gained an appreciation for many fields' unique subject matters and developed a strategies for
+    applied technical learning. I find that even apparently dissimilar technical projects can be tackled via first principles thinking combined with high-level
     goal orientedness and enthusiastic curiosity!"
     section: team
     people:
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Bryce Rogers"
+        role: ""
         image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
   contact:
     title: "Reach Out"
