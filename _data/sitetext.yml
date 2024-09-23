@@ -16,21 +16,6 @@ en: &DEFAULT_EN
     button: starting anewtwothree
     buttonlink: "#services"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
   portfolio:
     title: "Highlighted Projects"
     text: "Lorem ipsum dolor sit amet consectetur."
@@ -85,28 +70,21 @@ en: &DEFAULT_EN
     goal orientedness and enthusiastic curiosity!"
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Introduction?"
+    text: "subtitle?."
+    subtext: ">Hi, I'm Bryce! I'm a Brooklyn-based mechanical engineer with experience in physics-based simulation, biomechanics,
+    and early-stage hard tech statups.\n\n
+    
+    I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been
+    grateful to have been able to engage in a multitude of technical fields, including exobiology research at NASA Ames,
+    3D modelling for auto parts manufacture, aortic hemodynamics research, recombinant protein production and processing, bioreactor design for microbial methanol production, and shrimp-shell-based
+    alternative leather manufacturing.
+    
+    In each role I occupy, I strive to achieve the expertise necessary for creative and goal-oriented problem solving.
+    In doing so I've gained an appreciation for many fields' unique subject matters and developed a collection of strategies for
+    applied technical learning. I find that even apparently very dissimilar technical projects can be tackled via first principles thinking combined with high-level
+    goal orientedness and enthusiastic curiosity!"
     section: team
     people:
       - name: "Kay Garland"
