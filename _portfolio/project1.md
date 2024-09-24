@@ -12,6 +12,10 @@ caption:
 Between 2020-2022 I had the privilege of working in the biomechanical research lab of [Dr. Niema Pahlevan](https://viterbi.usc.edu/directory/faculty/Pahlevan/Niema). Under the guidance of Dr. Pahlevan and his then-PhD student (now Dr.) [Dr. Arian Aghilinejad](https://www.linkedin.com/in/arian-aghilinejad-85828b108/), I coauthored two papers on cardiovascular fluid dynamics. The [first paper](https://github.com/brogers622/portfolio/blob/18c59b9fa894b4369f521322821fec689fcc526e/1st%20coauthored%20paper.pdf) investigated whether vessel wall displacement could be used as a noninvasive proxy for internal vessel pressure in calculating a novel pressure-based index of cardiovascular health. The [second paper](https://github.com/brogers622/portfolio/blob/18c59b9fa894b4369f521322821fec689fcc526e/2nd%20coathored%20paper.pdf) explored the frequency-dependent pumping behavior exhibited by compliant vessels in cyclically stretched longitudinally.
 ### Paper 1
 My role in the 
+
+
+![vessel](https://github.com/brogers622/portfolio/blob/main/vessel.gif)
+
 ### Paper 2
 
 ### Acoustic Streaming Research + Presentation
