@@ -11,10 +11,14 @@ caption:
 ---
 Between 2020-2022 I had the privilege of working in the biomechanical research lab of [Dr. Niema Pahlevan](https://viterbi.usc.edu/directory/faculty/Pahlevan/Niema). Under the guidance of Dr. Pahlevan and his then-PhD student (now Dr.) [Dr. Arian Aghilinejad](https://www.linkedin.com/in/arian-aghilinejad-85828b108/), I coauthored two papers on cardiovascular fluid dynamics. The [first paper](https://github.com/brogers622/portfolio/blob/18c59b9fa894b4369f521322821fec689fcc526e/1st%20coauthored%20paper.pdf) investigated whether vessel wall displacement could be used as a noninvasive proxy for internal vessel pressure in calculating a novel pressure-based index of cardiovascular health. The [second paper](https://github.com/brogers622/portfolio/blob/18c59b9fa894b4369f521322821fec689fcc526e/2nd%20coathored%20paper.pdf) explored the frequency-dependent pumping behavior exhibited by compliant vessels in cyclically stretched longitudinally.
 ### Paper 1
-My role in the 
+The first paper investigated a novel index of cardiovascular health proposed by Dr. Pahlevan - intrinsic frequency (IF). One's IF is calculated using from the pressure wave over a cardiac cycle inside a blood vessel, such as the aorta. Like blood pressure, it is proposed as a holistic indicator of overall cardiovascular functioning. Unfortunately, the invasiveness of measuring blood pressure inside a vessel limits the universality of IF measurement, and it would thus be convenient to be able to calculate IF from a different source. One potential option is the measurement of vessel wall displacement that accompanies a cardiac cycle; the motivating question question underlying this paper was *how closely does displacement-based IF approximate pressure-based IF?*
+
+This investigation consisted of an analytical approach handled by my colleagues and a computational approach handled by me. I was responsible for using computational fluid dynamics tools to simulate cardiac cycles in the aorta under various physiological conditions, and extract pressure and displacement data for IF analysis.
+
+I developed a simplified model of the aorta, generated a fluid-solid interaction model in the finite element solver ADINA, applied boundary and initial conditions, developed and applied vessel wall material models, executed simulations until periodic steady state was reached, then extracted and plotted pressure and displacement data. I executed about 20 different cases manually. The video below shows 
 
 
-![vessel](https://github.com/brogers622/portfolio/blob/main/vessel.gif)
+![nasa_logo](assets/img/portfolio/vessel.gif)
 
 ### Paper 2
 
