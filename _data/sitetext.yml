@@ -16,6 +16,28 @@ en: &DEFAULT_EN
     button: Browse
     buttonlink: "#team"
 
+  team:
+    title: "Hello! I'm Bryce"
+    text: "Welcome to my online portfolio"
+    subtext: ">Hi! I'm a Brooklyn-based mechanical engineer with a background in physics simulation, biomechanical problem solving,
+    and early-stage hard tech statups. In addition to physics-based problem solving, I like to dance, cook for friends,
+    and play games of many kinds.\n\n
+    
+    I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been greatful
+    to have been able to engage in a diversity of technical fields during my technical life thus far, including exobiology research at NASA Ames,
+    3D CAD contracting for auto parts manufacturing, aortic hemodynamics research, recombinant protein processing, bioreactor design
+    for microbial methanol production, and shrimp-shell-based alternative leather manufacturing.\n\n
+    
+    In each role I occupy, I pursue the expertise necessary for creative and goal-oriented problem solving.
+    In doing so I've gained an appreciation for many fields' unique subject matters and developed a strategies for
+    applied technical learning. I find that even apparently dissimilar technical projects can be tackled via first principles thinking combined with high-level
+    goal orientedness and enthusiastic curiosity!"
+    section: team
+    people:
+      - name: "Bryce Rogers"
+        role: ""
+        image: assets/img/team/bryce.png
+
   portfolio:
     title: "Highlighted Projects"
     text: "An in-depth showcase of select projects"
@@ -37,7 +59,7 @@ en: &DEFAULT_EN
       - title: "Gap Year Exobio Research"
         year: "2017-2018"
         desc: "I took a gap year between high school and college to stay close to family. During that year I assisted exobiology research at NASA Ames Research Center."
-        image: assets/img/timeline/nasa2.png
+        image: assets/img/timeline/nasa.png
         alt:
       - title: "University of Southern California"
         year: "2018-2022"
@@ -58,28 +80,6 @@ en: &DEFAULT_EN
     text: "I might delete this section and replace it with team"
     body: "main text here"
     section: about
-
-  team:
-    title: "I'm Bryce"
-    text: "a brief introduction"
-    subtext: ">Hi, I'm Bryce! I'm a Brooklyn-based mechanical engineer with experience in physics-based simulation, biomechanics,
-    and early-stage hard tech statups. In addition to physics-based problem solving, I like to dance, cook for friends,
-    and play games of many kinds.\n\n
-    
-    I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been greatful
-    to have been able to engage in a diversity of technical fields during my technical life thus far, including exobiology research at NASA Ames,
-    3D CAD contracting for auto parts manufacturing, aortic hemodynamics research, recombinant protein processing, bioreactor design
-    for microbial methanol production, and shrimp-shell-based alternative leather manufacturing.\n\n
-    
-    In each role I occupy, I pursue the expertise necessary for creative and goal-oriented problem solving.
-    In doing so I've gained an appreciation for many fields' unique subject matters and developed a strategies for
-    applied technical learning. I find that even apparently dissimilar technical projects can be tackled via first principles thinking combined with high-level
-    goal orientedness and enthusiastic curiosity!"
-    section: team
-    people:
-      - name: "Bryce Rogers"
-        role: ""
-        image: assets/img/team/2.jpg
 
   contact:
     title: "Reach Out"
