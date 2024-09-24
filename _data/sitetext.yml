@@ -19,8 +19,8 @@ en: &DEFAULT_EN
   team:
     title: "Hi! I'm Bryce"
     text: "Welcome to my online portfolio"
-    subtext: ">Hello! I'm a Brooklyn-based mechanical engineer with a background in physics simulation, CAD and prototyping, biomechanics,
-    and early-stage hard tech statups. In addition to physics-based problem solving, I like to dance, cook for friends,
+    subtext: ">Hello! I'm a Brooklyn-based mechanical engineer with a background in mechanical design and prototyping, biomechanics,
+    fluid simulation and control, and early-stage climate tech statups. In addition to physics-based problem solving, I like to dance, cook for friends,
     and play games of many kinds.\n\n
     
     I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been grateful
@@ -53,21 +53,21 @@ en: &DEFAULT_EN
     events:
       - title: "Amador Valley High School"
         year: "2013-2017"
-        desc: "A high school in the East Bay full of lovely students and teachers! The cradle of my interests in math and physics."
+        desc: "A high school in the East Bay full of lovely students and teachers. The cradle of my interests in math and physics!"
         image: assets/img/timeline/avhs.png
         alt:
-      - title: "Gap Year Exobio Research"
+      - title: "Gap Year Research"
         year: "2017-2018"
         desc: "I took a gap year between high school and college to stay close to family. During that year I assisted exobiology research at NASA Ames Research Center."
         image: assets/img/timeline/nasa.png
         alt:
       - title: "University of Southern California"
         year: "2018-2022"
-        desc: "I moved from the Bay to LA to study mechanical engineering. In addition to my coursework, I did ~2.5 years cardiovascular fluid dynamics research, had a hydroelectic design internship, briefly studied abroad in New Zealand, and took my first dance classes!"
+        desc: "I moved from the Bay to LA to study mechanical engineering. In addition to my coursework, I did ~2.5 years cardiovascular fluid dynamics research, tutored fellow engineering students, did some hydroelectic design at an internship, (briefly) studied abroad in New Zealand, and took my first dance classes!"
         image: assets/img/timeline/viterbi.png
         alt: image alt text
       - title: "Hard Tech in the Big Apple"
-        year: "2023-"
+        year: "2023-present"
         desc: "I moved to New York City and joined Edge Foods as Lead Bioprocess Engineer in the first months of 2023. Since, I've also done bioreactor and process design at Carbonbridge and shrimp-based leather processing scale up at TomTex. I've also done some catering, tutoring, and Lindy Hop on the side!"
         image: assets/img/timeline/nyc.png
         alt:
@@ -76,9 +76,9 @@ en: &DEFAULT_EN
     end: "To Be Continued..."
 
   about:
-    title: "Introduction"
-    text: "I might delete this section and replace it with team"
-    body: "main text here"
+    title: "Thanks for stopping by!"
+    text: ""
+    body: "If you're not satiated, here are my [LinkedIn](https://www.linkedin.com/in/brycerogers1/) and [an aesthetically challenged but more comprehensive archive of my work](https://drive.google.com/drive/folders/1L_5epWsr6kS8ybJvb_R5I8qe7pvWViJP?usp=sharing). "
     section: about
 
   contact:
@@ -96,10 +96,10 @@ en: &DEFAULT_EN
     subject: "Contact Form Submission"
     submit: "Send Message"
 
-  footer:
-    social:
-      - url: https://www.linkedin.com/in/brycerogers1/
-        icon: "fab fa-linkedin-in"
+#  footer:
+#    social:
+#      - url: https://www.linkedin.com/in/brycerogers1/
+#        icon: "fab fa-linkedin-in"
 
 en-US:
   <<: *DEFAULT_EN
