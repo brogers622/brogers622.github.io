@@ -18,11 +18,10 @@ The first paper investigated intrinsic frequency (IF), a novel index of cardiova
 This investigation consisted of an analytical approach handled by my colleagues and a computational approach handled by me. I was responsible for using computational fluid dynamics tools to simulate an aorta undergoing a cardiac cycle under various physiological conditions, and to extract pressure and displacement data from the simulations for IF analysis.
 
 The figure below shows the simplified axisymmetric aorta model I arrived at by assuming that aortic branching, turns/twists, and diameter variation were all negligible.
-![](assets/img/portfolio/pahlevan/model.png)
+![](assets/img/portfolio/vessel.gif)
 Using the finite element solver ADINA, I generated a discretized, fluid-solid interaction version of the above model. I applied physiologically-relevant boundary and initial conditions, developed and applied vessel wall material models, validated spatial and temporal discretization, ran simulations for multiple cardiac cycles until periodic steady state was reached, then extracted and plotted pressure and displacement data. I executed about 20 different cases manually. Parameters varied between cases included vessel geometry, vessel wall material properties, and inlet blood velocity waveform.
 
-As shown in the plots below, the simulations suggested that displacement-based and pressure-based IF agree strongly if the vessel wall is purely elastic, but error increases with wall viscoelasticity. My colleague's analytical predictions agreed with the data reported by my simulations.
-![](assets/img/portfolio/pahlevan/plots1.png)
+We found that displacement-based and pressure-based IF agreed strongly in the cases of a purely elastic vessel wall, but error increased with wall viscoelasticity. My colleague's analytical prediction agreed with the data reported by my simulations. 
 ### Paper 2
 The second paper entailed a similar exploration but with different goals. Whereas the first paper had more immediate clinical relevance, this paper was a fundamental physics exploration of the impedence pumping behavior of compliant vessels due to longitudinal stretching.
 
