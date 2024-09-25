@@ -1,6 +1,6 @@
 ---
 title: Hemodynamics Research Papers
-subtitle: Blood and vessel dynamics papers coauthored under Dr. Niema Pahlevan
+subtitle: Blood and vessel dynamics papers coauthored under Dr. Niema Pahlevan, 2020-2022
 [//]: # image:
 [//]: # alt: Research
 
