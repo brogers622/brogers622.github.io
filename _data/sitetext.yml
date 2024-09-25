@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   team:
     title: "Hi! I'm Bryce"
-    text: "Welcome to my digital portfolio"
+    text: "Welcome to my online portfolio"
     subtext: ">Hello! I'm a Brooklyn-based mechanical engineer with a background in mechanical design and prototyping, biomechanics,
     fluid simulation and control, and early-stage climate tech statups. In addition to physics-based problem solving, I like to dance, cook for friends,
     and play games of many kinds.\n\n
@@ -96,10 +96,10 @@ en: &DEFAULT_EN
     subject: "Contact Form Submission"
     submit: "Send Message"
 
-  footer:
-    social:
-      - url: https://www.linkedin.com/in/brycerogers1/
-        icon: "fab fa-linkedin-in"
+#  footer:
+#    social:
+#      - url: https://www.linkedin.com/in/brycerogers1/
+#        icon: "fab fa-linkedin-in"
 
 en-US:
   <<: *DEFAULT_EN
