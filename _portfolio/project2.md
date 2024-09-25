@@ -52,6 +52,6 @@ The project is ongoing - most of the design is complete and early assembly has b
 
 ![](assets/img/portfolio/startups/layout.png)
 
-Below the partially assembled tubing, valves, pumps, and frame are shown.
+Below the partially assembled tubing, valves, pumps, and frame are shown:
 
 ![](assets/img/portfolio/startups/progress.png)
