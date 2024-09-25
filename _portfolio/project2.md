@@ -37,6 +37,7 @@ By suspending cells in the sodium alginate before it is extruded in the bath, ce
 #### Bioreactor Design
 At lab scale, we used a simple shaken bioreactor geometry. By integrating sensors I developed a cost effective bioreactor that collected pH and dissolved oxygen data in real time and used these readings to control an automated feeding mechanism. 
 
+![](assets/img/portfolio/startups/edge-reactor.png)
 #### Suspension and serum-free adaptation of mammalian cell clumps
 By default, most mammalian cells require a surface to adhere to supplementation with fetal bovine serum - a cell culture supplement that is highly popular but has questionable cost and ethics. Together with the biology team, I successfully adapted adherent mammalian cells (HEK cells and CHO cells) to be serum-free and suspended in clumps. This adaptation enables ethical, affordable scaling of our process in suspension bioreactors.
 
