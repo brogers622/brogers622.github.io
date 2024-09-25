@@ -68,7 +68,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Hard Tech in the Big Apple"
         year: "2023-present"
-        desc: "I moved to New York City and joined Edge Foods as Lead Bioprocess Engineer in the first months of 2023. Since, I've also done bioreactor and process design at Carbonbridge and shrimp-based leather processing scale up at TomTex. I've also done some catering, tutoring, and Lindy Hop on the side!"
+        desc: "I moved to New York City and joined Edge Foods as Lead Bioprocess Engineer in the first months of 2023. Since, I've also done bioreactor and process design at Carbonbridge and shrimp-based leather processing scale up at TômTex. I've also done some catering, tutoring, and Lindy Hop on the side!"
         image: assets/img/timeline/nyc.png
         alt:
         # you can enforce the alignment
