@@ -20,14 +20,20 @@ This investigation consisted of an analytical approach handled by my colleagues 
 The figure below shows the simplified axisymmetric aorta model I arrived at by assuming that aortic branching, turns/twists, and diameter variation were all negligible.
 
 ![](assets/img/portfolio/pahlevan/model.png)
-Using the finite element solver ADINA, I generated a discretized, fluid-solid interaction version of the above model. I applied physiologically-relevant boundary and initial conditions, developed and applied vessel wall material models, validated spatial and temporal discretization, ran simulations for multiple cardiac cycles until periodic steady state was reached, then extracted and plotted pressure and displacement data. I executed about 20 different cases manually. Parameters varied between cases included vessel geometry, vessel wall material properties, and inlet blood velocity waveform.
+Using the finite element solver ADINA, I generated a discretized, fluid-solid interaction version of the above model. I applied physiologically-relevant boundary and initial conditions, developed and applied vessel wall material models, validated spatial and temporal discretization, ran simulations for multiple cardiac cycles until periodic steady state was reached, then extracted pressure and displacement data and plotted it using Matlab. I executed about 20 different cases manually. Parameters varied between cases included vessel geometry, vessel wall material properties, and inlet blood velocity waveform.
 
 As shown in the plots below, the simulations suggested that displacement-based and pressure-based IF agree strongly if the vessel wall is purely elastic, but error increases with wall viscoelasticity. My colleague's analytical predictions agreed with the data reported by my simulations.
 ![](assets/img/portfolio/pahlevan/plots1.png)
 ### Paper 2
 The second paper entailed a similar exploration but with different goals. Whereas the first paper had more immediate clinical relevance, this paper was a fundamental physics exploration of the impedence pumping behavior of compliant vessels due to longitudinal stretching.
 
-An impedence pump is a type of valveless pump in which the wall of a compliant tube is agitated cyclically and a net flow develops as a results. The most common type of impedence pump is a radial impedence pump, in which the vessels is compressed and released radially in a cyclic fashion. Depending on vessel geometry and compression frequency, this can result in a net flow. This paper explored a *longitudinal* impedence pump, in which the cyclic agitation is in the direction of the vessel axis, which is much less studied than its radian counterpart.
+*Impedence pumping* is a valveless pumping effect in which a net flow results in a compliant tube due periodic agitation of the vessel wall. The most common type of impedence pump is the *radial impedence pump*, illustrated in the diagram below, in which the vessel wall is compressed radially and released in a periodic fashion. Depending on vessel geometry and compression frequency, this can result in a net flow.
+
+![](assets/img/portfolio/pahlevan/radial-pump.png)
+
+This paper explored a *longitudinal* impedence pump, illustrated below, in which the cyclic agitation is in the direction of the vessel axis. This type of impedence pump is less studied than its radial counterpart.
+
+![](assets/img/portfolio/pahlevan/longitudinal-pump.png)
 
 Like the first paper, we undertook both analytical and computational approaches, and I was responsible for the simulations. I used the same software and a similar vessel model, although with some new boundary conditions and material definitions. The video below shows a custom periodic stretch and release boundary condition I developed for this study.
 ![](assets/img/portfolio/pahlevan/vessel.gif)
