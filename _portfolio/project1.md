@@ -7,7 +7,7 @@ subtitle: Blood and vessel dynamics papers coauthored under Dr. Niema Pahlevan
 caption:
   title: Hemodynamics Research Papers
   subtitle: Viterbi School of Engineering
-  thumbnail: assets/img/portfolio/thumbnail-field.png
+  thumbnail: assets/img/portfolio/pahlevan/thumbnail-field.png
 ---
 Between 2020-2022 I had the privilege of working in the biomechanical research lab of [Dr. Niema Pahlevan](https://viterbi.usc.edu/directory/faculty/Pahlevan/Niema). Under the guidance of Dr. Pahlevan and his then-PhD student (now Dr.) [Arian Aghilinejad](https://www.linkedin.com/in/arian-aghilinejad-85828b108/), I coauthored two papers on cardiovascular fluid dynamics.
 
@@ -19,7 +19,7 @@ This investigation consisted of an analytical approach handled by my colleagues 
 
 The figure below shows the simplified axisymmetric aorta model I arrived at by assuming that aortic branching, turns/twists, and diameter variation were all negligible.
 ![](assets/img/portfolio/vessel.gif)
-I developed a simplified model of the aorta, generated a fluid-solid interaction model in the finite element solver ADINA, applied boundary and initial conditions, developed and applied vessel wall material models, validated spatial and temporal discretization, executed simulations until periodic steady state was reached, then extracted and plotted pressure and displacement data. I executed about 20 different cases manually. Parameters varied between cases included vessel geometry, vessel wall material properties, and inlet blood velocity waveform.
+Using the finite element solver ADINA, I generated a discretized, fluid-solid interaction version of the above model. I applied physiologically-relevant boundary and initial conditions, developed and applied vessel wall material models, validated spatial and temporal discretization, ran simulations for multiple cardiac cycles until periodic steady state was reached, then extracted and plotted pressure and displacement data. I executed about 20 different cases manually. Parameters varied between cases included vessel geometry, vessel wall material properties, and inlet blood velocity waveform.
 
 We found that displacement-based and pressure-based IF agreed strongly in the cases of a purely elastic vessel wall, but error increased with wall viscoelasticity. My colleague's analytical prediction agreed with the data reported by my simulations. 
 ### Paper 2
