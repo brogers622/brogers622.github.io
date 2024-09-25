@@ -24,7 +24,7 @@ Using the finite element solver ADINA, I generated a discretized, fluid-solid in
 
 As shown in the plots below, the simulations suggested that displacement-based and pressure-based IF agree strongly if the vessel wall is purely elastic, but error increases with wall viscoelasticity. My colleague's analytical predictions agreed with the data reported by my simulations.
 ![](assets/img/portfolio/plots1.png)
-### Paper 2
+### Paper 2test
 The second paper entailed a similar exploration but with different goals. Whereas the first paper had more immediate clinical relevance, this paper was a fundamental physics exploration of the impedence pumping behavior of compliant vessels due to longitudinal stretching.
 
 An impedence pump is a type of valveless pump in which the wall of a compliant tube is agitated cyclically and a net flow develops as a results. The most common type of impedence pump is a radial impedence pump, in which the vessels is compressed and released radially in a cyclic fashion. Depending on vessel geometry and compression frequency, this can result in a net flow. This paper explored a *longitudinal* impedence pump, in which the cyclic agitation is in the direction of the vessel axis, which is much less studied than its radian counterpart.
