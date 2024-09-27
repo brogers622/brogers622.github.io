@@ -7,7 +7,7 @@ subtitle: Math, physics, and other tutoring experiences
 caption:
   title: Tutoring
   subtitle: Learning by teaching
-  thumbnail: assets/img/portfolio/tutoring/chalkboard.jpg
+  thumbnail: assets/img/portfolio/tutoring/chalkboard.png
 ---
 From guiding a preschooler in learning how to count to a personalized multivariable calculus course for the [youngest SpaceX engineer](https://en.wikipedia.org/wiki/Kairan_Quazi), I've taught a variety of subjects in a variety of contexts since I began tutoring in high school. I've primarily tutored math and physics, but have also offered English, ACT/SAT prep, 3D modelling, and engineering courses.From most recent to longest ago, my tutoring experiences are breifly described below.
 
