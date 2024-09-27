@@ -1,17 +1,23 @@
 ---
-title: Features
-subtitle: Speeches, presentations, or appearances
+title: Tutoring
+subtitle: Math, physics, and other tutoring experiences
 [//]: # image: assets/img/portfolio/02-full.jpg
 [//]: # alt: Keep Exploring
 
 caption:
-  title: Features
-  subtitle: Bryce's guest appearances
+  title: Tutoring
+  subtitle: Learning by teaching
   thumbnail: assets/img/portfolio/features/thumbnail-features.jpg
 ---
-### Cultivating Careers Podcast, 2023
-Jeffray Behr, a colleague of mine, hosts the [Cultivating Careers in Alternative Proteins](https://www.buzzsprout.com/1884302) podcast, in which he discusses various alternative protein related topics with guests. While I was at Edge Foods, I was interviewed alongside [Natalie Fernandez](https://www.linkedin.com/in/natalie-fernandez1/) in [Episode 23](https://www.buzzsprout.com/1884302/episodes/13537326-ep-23-bryce-rogers-project-engineer-at-edge-foods-and-natalie-fernandez-aspiring-alternative-proteins-mechanical-engineer) on the pursuit of alternative protein related engineering jobs.
-### Talist Blog Post, 2023
-Also while at Edge Foods, I was interviewed for a blog post by Talist, an organization that aims to provide professionals with resources to pivot to a career in alternative proteins. The post, in which I discuss my experience at and leading up to Edge Foods, is titles [Case Study: Biomechanical Engineer in Alternative Proteins](https://talist.org/case-study-biomechanical-engineer).
-### High Impact Engineering Presentation at UC Berkeley, 2022
-On behalf of High Impact Engineers, I gave a talk at UC Berkeley about strategies to pursue a highly socially impactful engineering career.
+From guiding a preschooler in learning how to count to a personalized multivariable calculus course for the [youngest SpaceX engineer](https://en.wikipedia.org/wiki/Kairan_Quazi), I've taught a variety of subjects in a variety of contexts since I began tutoring in high school. I've primarily tutored math and physics, but have also offered English, ACT/SAT prep, 3D modelling, and engineering courses.From most recent to longest ago, my tutoring experiences are breifly described below.
+
+[**Lexicon Academics**](https://www.lexiconacademics.com/), 2023-2024
+At-home, personalized 3D printing, 3D modelling, and engineering skills courses for students in NYC 
+[**USC Viterbi Learning Program**](https://viterbiundergrad.usc.edu/viterbilearningprogram/), 2019-2021
+After each undergrad engineering course I completed, I added it to my portfolio of tutoring offerings. I provided custom, one-on-one tutoring and homework help to fellow engineering students in undergraduate math, physics, and mechanical engineering courses.
+[**TalentNook**](https://talentnook.com/), 2019-2020
+I developed and taught custom multivariable calculus courses to students who sought an early start on their calculus studies. Some students were in person and some were virtual. Among my virtual students was [Kairen Quazi](https://en.wikipedia.org/wiki/Kairan_Quazi), who went on to become the youngest graduate of Santa Clara University and youngest engineer at SpaceX.
+[**Mathnasium**](https://www.mathnasium.com/), 2018-2019
+An after-school math homework help center. I worked with groups of ~8 students at a time, including preschoolers learning to count, high school seniors learning calculus, and everyone in between.
+[**JEI Learning Center**](https://jeilearning.com/), 2018-2019
+My very first tutoring experience! I tutored middle school English and algebra.
