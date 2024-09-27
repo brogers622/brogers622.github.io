@@ -37,3 +37,6 @@ The top and bottom halves of the cylindrical mockup section are shown below.
 Icebreaker Life is a proposed NASA mission to investigate for signs of life on Mars. I designed, 3D modeled, and constructed a model of the Icebreaker mission biobarrier for presentation purposes (not for actual mission use). A biobarrier is a protective seal used to prevent astronautical equipment from contaminating other planets with Earth life. CAD and wood models of the biobarrier are shown below.
 
 ![](assets/img/portfolio/nasa/biobarrier.png)
+### Butler and Brown Manufacturing LLC, CAD Contractor
+For about 6 months at the end of 2017 I also worked in a machine shop that specialized in car, boat, and elevator parts. This wasn't part of my work at NASA Ames but I thought I'd throw it in here as the owner of the shop often worked with the machinist I worked under at Ames, which is how I got connected. As a CAD contractor I translated 2D drawings to 3D models and sometimes drew up original 3D models with design input from the owner. 
+![](assets/img/portfolio/nasa/auto-part.png)
