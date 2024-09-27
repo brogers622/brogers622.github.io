@@ -45,3 +45,5 @@ Fortunately, ADINA can be operated manually via its UI *or* programmatically by 
 In the end, the simulations and analytical approach predicted a highly frequency depended pumping behavior of the vessel, which could produce a net flow forward, backward, or not at all depending on the frequency.
 ### Acoustic Streaming Research + Presentation
 Before working with Dr. Pahlevan, I also worked under [Dr. Anita Penkova](https://viterbi.usc.edu/directory/faculty/Penkova/Anita) to investigate the fluid dynamics of [acoustic streaming](https://en.wikipedia.org/wiki/Acoustic_streaming#:~:text=Acoustic%20streaming%20is%20a%20steady,waves%20within%20a%20Kundt's%20tube.), a net flow induced by sound waves in a fluid. I investigated the phenomenon using the open source computational fluid dynamics tool OpenFOAM, and presented my team's findings in a virtual undergraduate symposium [Google Drive video link here](https://drive.google.com/file/d/1xZN7Vfau2ATikSEVXnsze9H4Ha9w9JrO/view?usp=drive_link).
+
+[![research-presentation](assets/img/portfolio/pahlevan/presentation.png)](https://youtu.be/Pq0JhbtJkws?si=5jBd_x8W9y9MLBYw)
