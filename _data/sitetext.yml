@@ -72,11 +72,11 @@ en: &DEFAULT_EN
 
   services:
     title: "Skills"
-    text: "technical and non-technical assets I provide"
+    text: "a collection of technical and non-technical assets"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Design and Fabrication"
+        desc: "CAD: SolidWorks, Fusion 360, NX\nExperimental Design: LabView"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
