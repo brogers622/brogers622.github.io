@@ -96,7 +96,7 @@ en: &DEFAULT_EN
         [Catering](https://www.imdb.com/title/tt33295155/fullcredits/?ref_=tt_cl_sm)\n
         Choreography\n
         Social Dance Production"
-        icon: fab fa-arrows-alt
+        icon: fab fa-bolt
 
   about:
     title: "Thanks for stopping by!"
