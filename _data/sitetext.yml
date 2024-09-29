@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     and play games of many kinds.\n\n
     
     I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been grateful
-    to have been able to engage in a diversity of technical fields during my technical life thus far, including exobiology research at NASA Ames,
+    to have been able to engage in a diversity of technical fields, including exobiology research at NASA Ames,
     3D CAD contracting for auto parts manufacturing, aortic hemodynamics research, recombinant protein processing, bioreactor design
     for microbial methanol production, and shrimp-shell-based alternative leather manufacturing.\n\n
     
@@ -81,6 +81,27 @@ en: &DEFAULT_EN
     body: "Please feel free to reach out to me at brogers622@gmail.com\n\nAnd if you're not satiated, here are my [LinkedIn](https://www.linkedin.com/in/brycerogers1/) and [an aesthetically challenged but more comprehensive archive of my work](https://drive.google.com/drive/folders/1L_5epWsr6kS8ybJvb_R5I8qe7pvWViJP?usp=sharing). "
     section: about
 
+  services:
+    title: "Services"
+    text: "Lorem ipsum"
+    section: services
+    list:
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+
+  footer:
+    social:
+      - url: https://www.linkedin.com/in/brycerogers1/
+        icon: "fab fa-linkedin-in"
+
+# EXCLUDED SECTIONS
   contact:
     title: "Reach Out"
     text: "Fill out this form or email brogers622@gmail.com"
@@ -95,11 +116,6 @@ en: &DEFAULT_EN
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Send Message"
-
-  footer:
-    social:
-      - url: https://www.linkedin.com/in/brycerogers1/
-        icon: "fab fa-linkedin-in"
 
 en-US:
   <<: *DEFAULT_EN
