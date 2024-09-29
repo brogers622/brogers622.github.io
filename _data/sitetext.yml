@@ -54,7 +54,7 @@ en: &DEFAULT_EN
       - title: "Gap Year Research"
         year: "2017-2018"
         desc: "I took a gap year between high school and college to stay close to family. During that year I assisted exobiology research at NASA Ames Research Center."
-        image: assets/img/timeline/nasa.png
+        image: assets/img/timeline\nasa.png
         alt:
       - title: "University of Southern California"
         year: "2018-2022"
@@ -64,7 +64,7 @@ en: &DEFAULT_EN
       - title: "Hard Tech in the Big Apple"
         year: "2023-present"
         desc: "I moved to New York City and joined Edge Foods as Lead Bioprocess Engineer in the first months of 2023. Since, I've also done bioreactor and process design at Carbonbridge and shrimp-based leather processing scale up at TômTex. I've also done some catering, tutoring, and Lindy Hop on the side!"
-        image: assets/img/timeline/nyc.png
+        image: assets/img/timeline\nyc.png
         alt:
         # you can enforce the alignment
         align: right
@@ -76,17 +76,17 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Design and Fabrication"
-        desc: ">CAD: *SolidWorks, Fusion 360, NX*/n
-        Experimental Design: *NI LabVIEW*/n
-        Vectors and Graphics: *Inkscape, Canva*/n
-        Electronic Controls: *Arduino, RaspberryPi, sensors*/n
-        PID Design/n
+        desc: ">CAD: *SolidWorks, Fusion 360, NX*\n
+        Experimental Design: *NI LabVIEW*\n
+        Vectors and Graphics: *Inkscape, Canva*\n
+        Electronic Controls: *Arduino, RaspberryPi, sensors*\n
+        PID Design\n
         Prototyping: *3D Printing, Laser Cutting, 3 Axis CNC*"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Simulation, Automation, and Analysis"
-        desc: ">Computation and Graphics: *Matlab, Mathematica, Spreadsheets*/n
+        desc: ">Computation and Graphics: *Matlab, Mathematica, Spreadsheets*\n
         CFD: ADINA, OpenFOAM\n
-        Bash/n
+        Bash\n
         Arduino, RaspberryPi"
         icon: fas fa-laptop
       - title: "Breadth and Ambition"
