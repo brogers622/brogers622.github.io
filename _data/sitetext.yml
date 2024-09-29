@@ -84,17 +84,15 @@ en: &DEFAULT_EN
         Prototyping: *3D Printing, Laser Cutting, 3 Axis CNC*"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Simulation, Automation, and Analysis"
-        desc: ">Matlab
-        Mathematica
-        Bash
-        CFD: ADINA, OpenFOAM
-        Arduino, RaspberryPi
-        Spreadsheets"
+        desc: ">Computation and Graphics: *Matlab, Mathematica, Spreadsheets*/n
+        CFD: ADINA, OpenFOAM\n
+        Bash/n
+        Arduino, RaspberryPi"
         icon: fas fa-laptop
       - title: "Breadth and Ambition"
         desc: ">Techno-Economic Analysis
         Technical Writing
-        Biology: 
+        Bioprocessing: *cell culture, protein filtration, freeze drying*
         Catering
         Choreography
         Social Dance Production
