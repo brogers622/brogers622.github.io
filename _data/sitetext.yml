@@ -76,17 +76,17 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Design and Fabrication"
-        desc: ">CAD: *SolidWorks, Fusion 360, NX*/n
-        Experimental Design: *NI LabVIEW*/n
-        Vectors and Graphics: *Inkscape, Canva*/n
-        Electronic Controls: *Arduino, RaspberryPi, sensors*/n
-        PID Design/n
+        desc: ">CAD: *SolidWorks, Fusion 360, NX*\n
+        Experimental Design: *NI LabVIEW*\n
+        Vectors and Graphics: *Inkscape, Canva*\n
+        Electronic Controls: *Arduino, RaspberryPi, sensors*\n
+        PID Design\n
         Prototyping: *3D Printing, Laser Cutting, 3 Axis CNC*"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Simulation, Automation, and Analysis"
-        desc: ">Computation and Graphics: *Matlab, Mathematica, Spreadsheets*/n
+        desc: ">Computation and Graphics: *Matlab, Mathematica, Spreadsheets*\n
         CFD: ADINA, OpenFOAM\n
-        Bash/n
+        Bash\n
         Arduino, RaspberryPi"
         icon: fas fa-laptop
       - title: "Breadth and Ambition"
