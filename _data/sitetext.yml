@@ -77,13 +77,11 @@ en: &DEFAULT_EN
     list:
       - title: "Design and Fabrication"
         desc: ">CAD: SolidWorks, Fusion 360, NX
-        Experimental Design: NI LabVIEW
-        Vectors and Graphics: Inkscape, Canva
+        Experimental Design: *NI LabVIEW*
+        Vectors and Graphics: *Inkscape, Canva*
         Electronic Controls: Arduino, RaspberryPi, sensors
         PID Design
-        3D Printing
-        Laser Cutting
-        3 Axis CNC"
+        Prototyping: 3D Printing, Laser Cutting, 3 Axis CNC"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Simulation, Automation, and Analysis"
         desc: ">Matlab
