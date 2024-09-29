@@ -10,11 +10,6 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  header:
-    title: Bryce Rogers
-    text: Portfolio
-    button: Browse
-    buttonlink: "#team"
 
   team:
     title: "Hi! I'm Bryce"
@@ -75,20 +70,14 @@ en: &DEFAULT_EN
         align: right
     end: "To Be Continued..."
 
-  about:
-    title: "Thanks for stopping by!"
-    text: ""
-    body: "Please feel free to reach out to me at brogers622@gmail.com\n\nAnd if you're not satiated, here are my [LinkedIn](https://www.linkedin.com/in/brycerogers1/) and [an aesthetically challenged but more comprehensive archive of my work](https://drive.google.com/drive/folders/1L_5epWsr6kS8ybJvb_R5I8qe7pvWViJP?usp=sharing). "
-    section: about
-
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Skills"
+    text: "technical and non-technical assets I provide"
     section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
@@ -96,12 +85,24 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
+  about:
+    title: "Thanks for stopping by!"
+    text: ""
+    body: "Please feel free to reach out to me at brogers622@gmail.com\n\nAnd if you're not satiated, here are my [LinkedIn](https://www.linkedin.com/in/brycerogers1/) and [an aesthetically challenged but more comprehensive archive of my work](https://drive.google.com/drive/folders/1L_5epWsr6kS8ybJvb_R5I8qe7pvWViJP?usp=sharing). "
+    section: about
+
   footer:
     social:
       - url: https://www.linkedin.com/in/brycerogers1/
         icon: "fab fa-linkedin-in"
 
 # EXCLUDED SECTIONS
+  header:
+    title: Bryce Rogers
+    text: Portfolio
+    button: Browse
+    buttonlink: "#team"
+
   contact:
     title: "Reach Out"
     text: "Fill out this form or email brogers622@gmail.com"
