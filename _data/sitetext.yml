@@ -76,10 +76,22 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Design and Fabrication"
-        desc: "CAD: SolidWorks, Fusion 360, NX\nExperimental Design: LabView"
+        desc: ">CAD: SolidWorks, Fusion 360, NX
+        Experimental Design: NI LabVIEW
+        Vectors and Graphics: Inkscape, Canva
+        Electronic Controls: Arduino, RaspberryPi, sensors
+        PID Design
+        3D Printing
+        Laser Cutting
+        3 Axis CNC"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Simulation, Automation, and Analysis"
+        desc: ">Matlab
+        Mathematica
+        Bash
+        CFD: ADINA, OpenFOAM
+        Arduino, RaspberryPi
+        Spreadsheets"
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
