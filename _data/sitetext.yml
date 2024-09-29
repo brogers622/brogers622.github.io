@@ -76,12 +76,12 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Design and Fabrication"
-        desc: ">CAD: SolidWorks, Fusion 360, NX
-        Experimental Design: *NI LabVIEW*
-        Vectors and Graphics: *Inkscape, Canva*
-        Electronic Controls: Arduino, RaspberryPi, sensors
-        PID Design
-        Prototyping: 3D Printing, Laser Cutting, 3 Axis CNC"
+        desc: ">CAD: *SolidWorks, Fusion 360, NX*/n
+        Experimental Design: *NI LabVIEW*/n
+        Vectors and Graphics: *Inkscape, Canva*/n
+        Electronic Controls: *Arduino, RaspberryPi, sensors*/n
+        PID Design/n
+        Prototyping: *3D Printing, Laser Cutting, 3 Axis CNC*"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Simulation, Automation, and Analysis"
         desc: ">Matlab
@@ -91,9 +91,15 @@ en: &DEFAULT_EN
         Arduino, RaspberryPi
         Spreadsheets"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Breadth and Ambition"
+        desc: ">Techno-Economic Analysis
+        Technical Writing
+        Biology: 
+        Catering
+        Choreography
+        Social Dance Production
+        "
+        icon: fab fa-arrows-alt
 
   about:
     title: "Thanks for stopping by!"
