@@ -79,12 +79,11 @@ en: &DEFAULT_EN
         desc: "CAD: *SolidWorks, Fusion 360, NX*\n\n
         Experimental Design: *NI LabVIEW*\n\n
         Vectors and Graphics: *Inkscape, Canva*\n\n
-        Electronic Controls: *Arduino, RaspberryPi, sensors*\n\n
-        [PID Design](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Report%20-%20two%20degree%20of%20freedom%20controller.pdf)\n\n
-        Prototyping: *3D Printing, Laser Cutting, 3 Axis CNC*"
+        Electronic Controls: *Arduino/RaspberryPi, [PID Design](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Report%20-%20two%20degree%20of%20freedom%20controller.pdf), digital measurement and feedback*\n\n
+        Prototyping: *3D Printing, Laser Cutting, [3 Axis CNC](assets/img/portfolio/nasa/cnc.png)*"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Simulation, Automation, and Analysis"
-        desc: "Computation and Graphics: *Matlab, Mathematica, Spreadsheets*\n
+        desc: "Computation and Graphics: *Matlab, Mathematica, Spreadsheets*\n\n
         CFD: *ADINA, OpenFOAM*\n\n
         Bash\n\n
         Arduino, RaspberryPi"
