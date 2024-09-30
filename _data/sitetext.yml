@@ -83,8 +83,8 @@ en: &DEFAULT_EN
         Prototyping: *3D Printing, Laser Cutting, [3 Axis CNC](assets/img/portfolio/nasa/cnc.png)*"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Simulation, Automation, and Analysis"
-        desc: "Computation and Graphics: *Matlab, Mathematica, Spreadsheets*\n\n
-        CFD: *ADINA, OpenFOAM*\n\n
+        desc: "Computation and Graphics: *[Matlab](assets/img/skills/interactive-map.gif), Mathematica, Spreadsheets*\n\n
+        CFD: *[ADINA](assets/img/portfolio/pahlevan/vessel.gif), [OpenFOAM](https://youtu.be/Pq0JhbtJkws?si=ns01ELJHgUCjwTm9)*\n\n
         Bash"
         icon: fas fa-laptop
       - title: "Breadth and Ambition"
