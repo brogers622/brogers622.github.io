@@ -77,7 +77,9 @@ en: &DEFAULT_EN
     list:
       - title: "Design and Fabrication"
         desc: "CAD: *SolidWorks, Fusion 360, NX*
-        Experimental Design: *NI LabVIEW*\n
+
+        
+        Experimental Design: *NI LabVIEW*\n\n
         Vectors and Graphics: *Inkscape, Canva*\n
         Electronic Controls: *Arduino, RaspberryPi, sensors*\n
         [PID Design](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Report%20-%20two%20degree%20of%20freedom%20controller.pdf)\n
