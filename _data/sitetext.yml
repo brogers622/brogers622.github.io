@@ -76,7 +76,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Design and Fabrication"
-        desc: "CAD: *SolidWorks, Fusion 360, NX*\nExperimental Design: *NI LabVIEW*\n"
+        desc: "CAD: *SolidWorks, Fusion 360, NX*<br />Experimental Design: *NI LabVIEW*""
         # Vectors and Graphics: *Inkscape, Canva*\n
         # Electronic Controls: *Arduino, RaspberryPi, sensors*\n
         # [PID Design](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Report%20-%20two%20degree%20of%20freedom%20controller.pdf)\n
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
         [Catering](https://www.imdb.com/title/tt33295155/fullcredits/?ref_=tt_cl_sm)\n
         Choreography\n
         Social Dance Production"
-        icon: fab fa-laptop
+        icon: fas fa-arrows-alt
 
   about:
     title: "Thanks for stopping by!"
