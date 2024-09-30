@@ -90,7 +90,7 @@ en: &DEFAULT_EN
       - title: "Breadth and Ambition"
         desc: ">Techno-Economic Analysis\n\n
         [Technical Writing](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Final%20Report.pdf)\n\n
-        Bioprocessing: *cell culture, protein filtration, freeze drying*\n\n
+        Bioprocessing: *[cell culture](assets/img/skills/cell-count.gif), protein filtration, [freeze drying](assets/img/skills/freeze-dry.gif)*\n\n
         [Catering](https://www.imdb.com/title/tt33295155/fullcredits/?ref_=tt_cl_sm)\n\n
         Social Dance Production"
         icon: fa fa-arrows-alt
