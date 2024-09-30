@@ -76,7 +76,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Design and Fabrication"
-        desc: "|CAD: *SolidWorks, Fusion 360, NX*
+        desc: "CAD: *SolidWorks, Fusion 360, NX*
         Experimental Design: *NI LabVIEW*\n
         Vectors and Graphics: *Inkscape, Canva*\n
         Electronic Controls: *Arduino, RaspberryPi, sensors*\n
