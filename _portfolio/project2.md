@@ -30,9 +30,11 @@ Additionally, I built a temperature feedback control system for three bacteria i
 Edge Foods was an early stage food tech startup that produced growth factors for lab grown meat using genetically engineered mammalian cells. As Lead Biomechanical Engineer, I led bioreactor design, downstream process design, technoeconomic analysis of our product, and scaling plans. I also assisted with the biology and cell caretaking, but I wasn't as good at that.
 
 #### Electrostatic Bead Generator
-[This video](https://drive.google.com/file/d/1kzXjkDQjnFX54C98xueHYXS3qzKWPLHM/view?usp=drive_link) demonstrates the functioning of an electrostatic bead generator I designed and assembled. The system dropped droplets of sodium alginate out of a syringe into a bath of calcium chloride. When the sodium alginate contacts the calcium chloride it congeals into a solid gel almost instantly. The size of the beads could be modulated by adjusting the voltage applied between the bath and the syringe, which created an electric force on the beads that pulled them off the syringe tip.
+The video below demonstrates the functioning of an electrostatic bead generator I designed and assembled. The system dropped droplets of sodium alginate out of a syringe into a bath of calcium chloride. When the sodium alginate contacts the calcium chloride it congeals into a solid gel almost instantly. The size of the beads could be modulated by adjusting the voltage applied between the bath and the syringe, which created an electric force on the beads that pulled them off the syringe tip.
 
 By suspending cells in the sodium alginate before it is extruded in the bath, cells could be encapsulate by the gel beads. This allows the cells to survive higher shear stresses in a stirred bioreactor while still allowing nutrient transport into the bead and waste transport out.
+
+[![](assets/img/portfolio/startups/electrostatic.png)](https://youtu.be/DudUC4S9mcY?si=iVcPpXFxJVsZcAIo)
 
 #### Bioreactor Design
 At lab scale, we used a simple shaken bioreactor geometry. By integrating sensors I developed a cost effective bioreactor that collected pH and dissolved oxygen data in real time and used these readings to control an automated feeding mechanism. 
