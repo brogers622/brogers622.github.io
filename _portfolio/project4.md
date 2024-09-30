@@ -9,7 +9,7 @@ caption:
   subtitle: learning by teaching
   thumbnail: assets/img/portfolio/tutoring/chalkboard.png
 ---
-From guiding a preschooler's journey towards counting to a personalized multivariable calculus course for the [youngest SpaceX engineer](https://en.wikipedia.org/wiki/Kairan_Quazi), I've taught a variety of subjects in a variety of contexts since I began tutoring in high school. I've primarily tutored math and physics, but have also offered English, ACT/SAT prep, 3D modelling, and engineering courses.From most recent to longest ago, my tutoring experiences are breifly described below.
+From guiding a preschooler's journey towards counting to a personalized multivariable calculus course for the [youngest SpaceX engineer](https://en.wikipedia.org/wiki/Kairan_Quazi), I've taught a variety of subjects in a variety of contexts since I began tutoring in high school. I've primarily tutored math and physics, but have also offered English, ACT/SAT prep, 3D modelling, and engineering courses. From most recent to longest ago, my tutoring experiences are briefly summarized below.
 
 ##### [**Lexicon Academics**](https://www.lexiconacademics.com/), 2023-2024
 At-home, personalized 3D printing, 3D modelling, and engineering skills courses for students in NYC

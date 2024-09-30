@@ -15,7 +15,7 @@ en: &DEFAULT_EN
     title: "Hi! I'm Bryce"
     text: "Welcome to my digital portfolio"
     subtext: ">Hello! I'm a Brooklyn-based mechanical engineer with a background in mechanical design and prototyping, biomechanics,
-    fluid simulation and control, and early-stage climate tech statups. In addition to physics-based problem solving, I like to dance, cook for friends,
+    fluid simulation and control, and early-stage climate tech startups. In addition to physics-based problem solving, I like to dance, cook for friends,
     and play games of many kinds.\n\n
     
     I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been grateful
@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         alt:
       - title: "University of Southern California"
         year: "2018-2022"
-        desc: "I moved from the Bay to LA to study mechanical engineering. In addition to my coursework, I did ~2.5 years cardiovascular fluid dynamics research, tutored fellow engineering students, did some hydroelectic design at an internship, (briefly) studied abroad in New Zealand, and took my first dance classes!"
+        desc: "I moved from the Bay to LA to study mechanical engineering. In addition to my coursework, I did ~2.5 years cardiovascular fluid dynamics research, tutored fellow engineering students, did some hydroelectric design at an internship, (briefly) studied abroad in New Zealand, and took my first dance classes!"
         image: assets/img/timeline/viterbi.png
         alt: image alt text
       - title: "Hard Tech NYC"
