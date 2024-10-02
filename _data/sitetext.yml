@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         desc: "I moved from the Bay to LA to study mechanical engineering. In addition to my coursework, I did ~2.5 years cardiovascular fluid dynamics research, tutored fellow engineering students, did some hydroelectric design at an internship, (briefly) studied abroad in New Zealand, and took my first dance classes!"
         image: assets/img/timeline/viterbi.png
         alt: image alt text
-      - title: "Hard Tech NYC"
+      - title: "Climate Tech in NYC"
         year: "2023-present"
         desc: "I moved to New York City and joined Edge Foods as Lead Bioprocess Engineer in the first months of 2023. Since, I've also done bioreactor and process design at Carbonbridge and shrimp-based leather processing scale up at TômTex. I've also done some catering, tutoring, and Lindy Hop on the side!"
         image: assets/img/timeline/nyc.png
