@@ -17,6 +17,8 @@ In the final semester of our mechanical engineering bachelors at USC, two other 
 ![](assets/img/portfolio/wec/poster.svg)
 
 
+![](assets/img/portfolio/wec/slides.pdf)
+
 
 Sections:
 design
