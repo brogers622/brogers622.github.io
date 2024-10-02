@@ -15,9 +15,8 @@ In the final semester of our mechanical engineering bachelors at USC, two other 
 
 ![png](assets/img/portfolio/wec/diagram.png)
 
-![svg](assets/img/portfolio/wec/poster.svg)
+<img style="float: center;" src="assets/img/portfolio/wec/diagram.png">
 
-![pdf](assets/img/portfolio/wec/slides.pdf)
 
 
 Sections:
