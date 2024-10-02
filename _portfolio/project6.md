@@ -1,28 +1,17 @@
 ---
-title: Non-Technical Projects
-subtitle: Non-technical projects that I am proud of
+title: Features
+subtitle: Speeches, presentations, or appearances
 [//]: # image: assets/img/portfolio/02-full.jpg
 [//]: # alt: Keep Exploring
 
 caption:
-  title: Non-Technical
-  subtitle: but just as special
-  thumbnail: assets/img/portfolio/non-technical/thumbnail-social.png
+  title: Features
+  subtitle: Bryce's guest appearances
+  thumbnail: assets/img/portfolio/features/thumbnail-features.jpg
 ---
-### High Impact Engineers, Operations Lead
-After graduating from college, from 2022-early 2023, I was Operations Lead at [High Impact Engineers](https://www.highimpactengineers.org/), an organization that aims to provide engineers with resources and connections to pursue careers of maximally positive social impact. As Operations Lead, I wrote articles (eg. an earlier version of [this article](https://www.highimpactengineers.org/how-engineers-can-have-impact-working-in-biosecurity)), gave a talk to the UC Berkeley chapter of Effective Altruism, attended conferences to community-build, and participated in the decisions behind the direction and growth of the organization.
-
-My work at HIE felt enjoyable and meaninful, but I eventually left for Edge Foods as I knew I wanted my career to be in object-level engineering work, rather than engineering community building.
-### Catering
-I've catered two film sets for close friends. In early 2024 I was [caterer and choreographer](https://www.imdb.com/title/tt33295155/?ref_=ttfc_fc_tt) for the short narrative film [Delicates](https://www.instagram.com/delicates.film/) and in the Summer of 2024 I catered for the short dance film ODDLOOP.
-### Lindy Hop Social Dance
-Lindy Hop - an early 20th century Harlem swing dance - has been a big part of my life in New York. Early in the Summer of 2024, I achieved my dream of hosting a Lindy Hop social in my backyard! It was heartful potluck with several hours of dancing, shown below (I'm in the blue shirt!).
-
-![](assets/img/portfolio/non-technical/social1.gif)
-
-At the end of the Summer I hosted another social, a bit bigger this time. This one was just a dance and not a potluck, and it had live music!
-
-![](assets/img/portfolio/non-technical/social2.gif)
-### Amador Valley High School Super Smash Bros. Club, Cofounder and Copresident
-My younger brother and I cofounded a Super Smash Bros. Club at our high school in 2016. We played weekly during lunch in the library and occasionally held inter-school tournaments! It attracted dozens of members its first year and is still kicking to this day.
-![](assets/img/portfolio/non-technical/smash.png)
+### Cultivating Careers Podcast, 2023
+Jeffray Behr, a colleague of mine, hosts the [Cultivating Careers in Alternative Proteins](https://www.buzzsprout.com/1884302) podcast, in which he discusses various alternative-protein-related topics with guests. While I was at Edge Foods, I was interviewed alongside [Natalie Fernandez](https://www.linkedin.com/in/natalie-fernandez1/) in [Episode 23](https://www.buzzsprout.com/1884302/episodes/13537326-ep-23-bryce-rogers-project-engineer-at-edge-foods-and-natalie-fernandez-aspiring-alternative-proteins-mechanical-engineer) on the pursuit of engineering jobs in the alternative protein space.
+### Talist Blog Post, 2023
+Also while at Edge Foods, I was interviewed for a blog post by [Tälist](https://talist.org/), an organization that aims to provide professionals with resources to pivot to a career in alternative proteins. The post, in which I discuss my experience at and leading up to Edge Foods, is titled [Case Study: Biomechanical Engineer in Alternative Proteins](https://talist.org/case-study-biomechanical-engineer).
+### High Impact Engineering Presentation at UC Berkeley, 2022
+On behalf of High Impact Engineers, I gave a talk at UC Berkeley about strategies to pursue a highly socially impactful engineering career.

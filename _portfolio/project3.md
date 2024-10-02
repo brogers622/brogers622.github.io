@@ -1,39 +1,53 @@
 ---
-title: Research Assistant
-subtitle: NASA Ames Research Center, Exobiology Branch, 2017-2018
-[//]: # image: assets/img/portfolio/nasa/01-full.jpg
-[//]: # alt: none
+title: Hard Tech for Climate
+subtitle: Overview of my work at three sustainability-oriented hard tech startups in NYC
+[//]: # image: assets/img/portfolio/02-full.jpg
+[//]: # alt: Keep Exploring
 
 caption:
-  title: Exobiology Research Assistance
-  subtitle: NASA Ames Research Center
-  thumbnail: assets/img/portfolio/nasa/thumbnail-nasa.png
+  title: Hard Tech for Climate
+  subtitle: sustainability-oriented hard tech startups in NYC
+  thumbnail: assets/img/portfolio/startups/thumbnail-startups.png
 ---
-From the Summer of 2017 to the Spring of 2018, during a gap year between high school and college, I worked at NASA Ames Research Center as an exobiology research assistant under the leadership of [Dr. Christoper McKay](https://en.wikipedia.org/wiki/Christopher_McKay). I provided engineering and research assistance on varied projects, the most significant of which were: **Ice Rheology Instrument Proposal**, **ELSAH Collector Cone Design Research**, **Mars Habitat Protype**, and **Icebreaker Biobarrier Concept Build**.
-### Ice Rheology Instrument Proposal
-I provided design input and CAD drawings for a funding proposal for the design and manufacture of an instrument intended to measure the rheological properties of ice on Pluto. It was submitted in December 2017 to [Dr. Michael Bicay](https://en.wikipedia.org/wiki/Michael_Bicay), Director of Science at NASA Ames Research Center. I contributed the 3D CAD drawings of the proposed instrument on page 12 of the proposal. A pdf of the proposal can be accessed [here](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/NASA%20Instrument%20Funding%20Proposal.pdf).
+I've worked at three early-stage climate tech companies since moving to NYC at the beginning of 2023: **Edge Foods**, **CarbonBridge**, and **TômTex**.
+### CarbonBridge, Mechanical Engineer
+[CarbonBridge](https://carbonbridge.io/) is a pre-seed startup currently headquartered at the [HAX space in Newark](https://hax.co/). CarbonBridge converts methane waste gas to liquid methanol fuel via direct-gas bacterial fermentation.
 
-![](assets/img/portfolio/nasa/team.png)
-### ELSAH Collector Cone Design Research
-[ELSAH](https://en.wikipedia.org/wiki/Enceladus_Life_Signatures_and_Habitability) is a proposed NASA mission in which a craft would pass by Saturn’s moon Enceladus and through its plumes to collect material samples and assess the possibility of life. I assisted the design and 3D modelling of potential collector cone designs. A CAD model of a cone cross section and a 3D print of a cone insert are shown below.
+My responsibilities as a mechanical engineer included bioreactor design, fluid control, temperature control, downstream process design, scaling planning, and miscellaneous engineering and experimentation support tasks. Show below left is an off-the shelf membrane filter holder I selected as an early bioreactor for CarbonBridge's methanol producing bacteria. Below right is this filter holder in a fluid control circuit with a syringe pump programmed to deliver gas and liquid at predetermined intervals. This system allowed the biology team to run experiments quickly and repeatedly, and produced significantly higher titers of methanol than were previously produced.
 
-![](assets/img/portfolio/nasa/prototypes.png)
-The manufactured stainless steel cones are shone below. To test collection efficacy, my boss [David Wilson](https://www.linkedin.com/in/david-willson-92713b8b/) and I launched a known mass of microbeads at each cone (to emulate a plume fly-by) and measured cone mass before and after.
+![](assets/img/portfolio/startups/small-reactor.png)
+The above reactor has a diameter of about 5cm. Once its successful use was demonstrated, I designed and manufactured an 8in diameter version, shown below alone and attached to its fluid control circuit. The fluid control was performed by a peristaltic pump and an Arduino microcontroller. In part due to the success of this system, CarbonBridge was selected for a [Greenwells grant by ARPA-E](https://www.linkedin.com/posts/carbonbridge_arpaegreenwells-decarbonize-methanol-activity-7226101649805635585-ts0E?utm_source=share&utm_medium=member_desktop).
 
-![](assets/img/portfolio/nasa/cones.png)
-### Mars Habitat Protype
-David designed a multipurpose habitat for extended crewed missions on Mars. I assisted the construction of a full-scale mockup of one cylindrical section for the presentation of his proposed design to fellow scientists.
+![](assets/img/portfolio/startups/big-reactor.png)
+##### Temperature Control System for Bacteria Incubators
+Additionally, I built a temperature feedback control system for three bacteria incubators, shown below. Each control system consisted of a heated blanket wrapped around the incubator, a thermocouple sensor to measure incubator temperature, a relay to switch on/off power to the blanket, and a programmable PID controller to control the relay.
 
-Based on his design, I made 3D and 2D CAD models of the pieces necessary to construct a wood prototype and cut them out of plywood using a 3 axis CNC mill, as shown below.
+![](assets/img/portfolio/startups/temp-control.png)
+### Edge Foods, Lead Biomechanical Engineer
+Edge Foods was an early stage food tech startup that produced growth factors for lab grown meat using genetically engineered mammalian cells. As Lead Biomechanical Engineer, I led bioreactor design, downstream process design, technoeconomic analysis of our product, and scaling planning. I also assisted with the biology and cell caretaking.
 
-![](assets/img/portfolio/nasa/cnc.png)
-The top and bottom halves of the cylindrical mockup section are shown below.
+##### Electrostatic Bead Generator
+The video below demonstrates the functioning of an electrostatic bead generator I designed and assembled. The system extruded droplets of sodium alginate out of a syringe into a bath of calcium chloride. When the sodium alginate contacted the calcium chloride it congealed into a solid gel almost instantly. The size of the beads could be modulated by adjusting the voltage applied between the bath and the syringe, which applied an electric force to the beads that pulled them off the syringe tip.
 
-![](assets/img/portfolio/nasa/hab.png)
-### Icebreaker Biobarrier Concept Build
-Icebreaker Life is a proposed NASA mission to investigate for signs of life on Mars. I designed, 3D modeled, and constructed a model of the Icebreaker mission biobarrier for presentation purposes (not for actual mission use). A biobarrier is a protective seal used to prevent astronautical equipment from contaminating other planets with Earth life. CAD and wood models of the biobarrier are shown below.
+By suspending cells in the sodium alginate before it was extruded into the bath, cells could be encapsulated by the gel beads. This allowed the cells to survive higher shear stresses in a stirred bioreactor while still allowing nutrient transport into the bead and waste transport out.
 
-![](assets/img/portfolio/nasa/biobarrier.png)
-### Butler and Brown Manufacturing LLC, CAD Contractor
-For about 6 months at the end of 2017 I also worked in a machine shop that specialized in car, boat, and elevator parts. This wasn't part of my work at NASA Ames but I thought I'd throw it in here as the owner of the shop often worked with the machinist I worked under at Ames, which is how I got connected. As a CAD contractor I translated 2D drawings to 3D models and sometimes drew up original 3D models with design input from the owner. 
-![](assets/img/portfolio/nasa/auto-part.png)
+[![](assets/img/portfolio/startups/electrostatic.png)](https://youtu.be/DudUC4S9mcY?si=iVcPpXFxJVsZcAIo)
+##### Bioreactor Design
+At lab scale, we used a simple shaken bioreactor geometry. By integrating sensors I developed a cost effective bioreactor that collected pH and dissolved oxygen data in real time and used these readings to control an automated feeding mechanism. 
+
+![](assets/img/portfolio/startups/edge-reactor.png)
+##### Suspension and serum-free adaptation of mammalian cell clumps
+By default, most mammalian cells require a surface to adhere to and supplementation with fetal bovine serum - a cell culture supplement that is highly popular but has questionable cost and ethics. Together with the biology team, I successfully adapted adherent mammalian cells (HEK cells and CHO cells) to be serum-free and suspended in clumps. This adaptation enabled ethical, affordable scaling of our process in suspension bioreactors.
+
+### TômTex, Process Engineer
+TômTex is a biomaterials startup that makes a sustainable leather alternative out of shrimp shells. Below is an example of the leather material (which I did not make). After the sheets of raw leather are produced they require several downstream processing steps, mostly consisting of chemical soaks. As a process engineer, I design and assemble hardware systems for the automation and scale up of these chemical processing steps.
+
+![](assets/img/portfolio/startups/wallet.png)
+My primary project has been to design and build a 50+ gallon automated chemical bath to treat rolls of leather. The system consists of one main drum with a roll of leather placed inside it vertically, 4 drums of treatment chemicals (acid, base, etc), and mechanics+electronics+controls to automatically fill and drain the main barrel in the correct sequence.
+
+The project is ongoing - most of the design is complete and early assembly has begun. The model below shows the approximate layout of the hydraulics, electronics, and chemical drums.
+
+![](assets/img/portfolio/startups/layout.png)
+Below the partially assembled tubing, valves, pumps, and frame are shown:
+
+![](assets/img/portfolio/startups/progress.png)

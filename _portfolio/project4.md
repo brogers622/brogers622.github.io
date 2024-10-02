@@ -1,23 +1,39 @@
 ---
-title: Tutoring
-subtitle: Math, physics, and other tutoring experiences
-[//]: # image: assets/img/portfolio/02-full.jpg
-[//]: # alt: Keep Exploring
+title: Research Assistant
+subtitle: NASA Ames Research Center, Exobiology Branch, 2017-2018
+[//]: # image: assets/img/portfolio/nasa/01-full.jpg
+[//]: # alt: none
 
 caption:
-  title: Tutoring
-  subtitle: learning by teaching
-  thumbnail: assets/img/portfolio/tutoring/chalkboard.png
+  title: Exobiology Research Assistance
+  subtitle: NASA Ames Research Center
+  thumbnail: assets/img/portfolio/nasa/thumbnail-nasa.png
 ---
-From guiding a preschooler's journey towards counting to a personalized multivariable calculus course for the [youngest SpaceX engineer](https://en.wikipedia.org/wiki/Kairan_Quazi), I've taught a variety of subjects in a variety of contexts since I began tutoring in high school. I've primarily tutored math and physics, but have also offered English, ACT/SAT prep, 3D modelling, and engineering courses. From most recent to longest ago, my tutoring experiences are briefly summarized below.
+From the Summer of 2017 to the Spring of 2018, during a gap year between high school and college, I worked at NASA Ames Research Center as an exobiology research assistant under the leadership of [Dr. Christoper McKay](https://en.wikipedia.org/wiki/Christopher_McKay). I provided engineering and research assistance on varied projects, the most significant of which were: **Ice Rheology Instrument Proposal**, **ELSAH Collector Cone Design Research**, **Mars Habitat Protype**, and **Icebreaker Biobarrier Concept Build**.
+### Ice Rheology Instrument Proposal
+I provided design input and CAD drawings for a funding proposal for the design and manufacture of an instrument intended to measure the rheological properties of ice on Pluto. It was submitted in December 2017 to [Dr. Michael Bicay](https://en.wikipedia.org/wiki/Michael_Bicay), Director of Science at NASA Ames Research Center. I contributed the 3D CAD drawings of the proposed instrument on page 12 of the proposal. A pdf of the proposal can be accessed [here](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/NASA%20Instrument%20Funding%20Proposal.pdf).
 
-##### [**Lexicon Academics**](https://www.lexiconacademics.com/), 2023-2024
-At-home, personalized 3D printing, 3D modelling, and engineering skills courses for students in NYC
-##### [**USC Viterbi Learning Program**](https://viterbiundergrad.usc.edu/viterbilearningprogram/), 2019-2021
-After each undergrad engineering course I completed, I added it to my portfolio of tutoring offerings. I provided custom, one-on-one tutoring and homework help to fellow engineering students in undergraduate math, physics, and mechanical engineering courses.
-##### [**TalentNook**](https://talentnook.com/), 2019-2020
-I developed and taught custom multivariable calculus courses to students who sought an early start on their calculus studies. Some students were in person and some were virtual. Among my virtual students was [Kairen Quazi](https://en.wikipedia.org/wiki/Kairan_Quazi), who went on to become the youngest graduate of Santa Clara University and youngest engineer at SpaceX.
-##### [**Mathnasium**](https://www.mathnasium.com/), 2018-2019
-An after-school math homework help center. I worked with groups of ~8 students at a time, including preschoolers learning to count, high school seniors learning calculus, and everyone in between.
-##### [**JEI Learning Center**](https://jeilearning.com/), 2018-2019
-My very first tutoring experience! I tutored middle school English and algebra.
+![](assets/img/portfolio/nasa/team.png)
+### ELSAH Collector Cone Design Research
+[ELSAH](https://en.wikipedia.org/wiki/Enceladus_Life_Signatures_and_Habitability) is a proposed NASA mission in which a craft would pass by Saturn’s moon Enceladus and through its plumes to collect material samples and assess the possibility of life. I assisted the design and 3D modelling of potential collector cone designs. A CAD model of a cone cross section and a 3D print of a cone insert are shown below.
+
+![](assets/img/portfolio/nasa/prototypes.png)
+The manufactured stainless steel cones are shone below. To test collection efficacy, my boss [David Wilson](https://www.linkedin.com/in/david-willson-92713b8b/) and I launched a known mass of microbeads at each cone (to emulate a plume fly-by) and measured cone mass before and after.
+
+![](assets/img/portfolio/nasa/cones.png)
+### Mars Habitat Protype
+David designed a multipurpose habitat for extended crewed missions on Mars. I assisted the construction of a full-scale mockup of one cylindrical section for the presentation of his proposed design to fellow scientists.
+
+Based on his design, I made 3D and 2D CAD models of the pieces necessary to construct a wood prototype and cut them out of plywood using a 3 axis CNC mill, as shown below.
+
+![](assets/img/portfolio/nasa/cnc.png)
+The top and bottom halves of the cylindrical mockup section are shown below.
+
+![](assets/img/portfolio/nasa/hab.png)
+### Icebreaker Biobarrier Concept Build
+Icebreaker Life is a proposed NASA mission to investigate for signs of life on Mars. I designed, 3D modeled, and constructed a model of the Icebreaker mission biobarrier for presentation purposes (not for actual mission use). A biobarrier is a protective seal used to prevent astronautical equipment from contaminating other planets with Earth life. CAD and wood models of the biobarrier are shown below.
+
+![](assets/img/portfolio/nasa/biobarrier.png)
+### Butler and Brown Manufacturing LLC, CAD Contractor
+For about 6 months at the end of 2017 I also worked in a machine shop that specialized in car, boat, and elevator parts. This wasn't part of my work at NASA Ames but I thought I'd throw it in here as the owner of the shop often worked with the machinist I worked under at Ames, which is how I got connected. As a CAD contractor I translated 2D drawings to 3D models and sometimes drew up original 3D models with design input from the owner. 
+![](assets/img/portfolio/nasa/auto-part.png)
