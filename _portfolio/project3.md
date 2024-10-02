@@ -13,11 +13,11 @@ In the final semester of our mechanical engineering bachelors at USC, two other 
 ### fsfd
 
 
+![png](assets/img/portfolio/wec/diagram.png)
 
-![](assets/img/portfolio/wec/poster.svg)
+![svg](assets/img/portfolio/wec/poster.svg)
 
-
-![](assets/img/portfolio/wec/slides.pdf)
+![pdf](assets/img/portfolio/wec/slides.pdf)
 
 
 Sections:
