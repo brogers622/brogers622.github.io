@@ -7,20 +7,18 @@ subtitle: senior design project - design, fabrication, testing, and analysis of 
 caption:
   title: Flexible Wave Energy Converter
   subtitle: design, fabrication, testing
-  thumbnail: assets/img/portfolio/startups/thumbnail-startups.png
+  thumbnail: assets/img/portfolio/wec/thumbnail-wec.png
 ---
-In the final semester of our mechanical engineering bachelors at USC, two other students and I designed and fabricated a novel device that that converted water wave energy to electrical energy.
-### fsfd
+In the final semester of our mechanical engineering bachelors at USC, two other students and I designed and fabricated a novel device that converted water wave energy to electrical energy. The process is summarized below; for more detailed descriptions feel free to check out the [final report](assets/img/portfolio/wec/slides.pdf) and [presentation slides](assets/img/portfolio/wec/slides.pdf).
+### Design
+
+### Fabrication
+
+### Data Collection
+
+### Data Analysis and Presentation
+
+
 
 
 ![png](assets/img/portfolio/wec/diagram.png)
-
-<img style="float: center;" src="assets/img/portfolio/wec/diagram.png">
-
-
-
-Sections:
-design
-fabrication
-testing
-analysis and presentation
