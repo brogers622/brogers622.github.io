@@ -33,10 +33,15 @@ The assembled system is shown below.
 To test the system, we placed it in a pre-existing water channel with a mechanical rectifier and damper in the Viterbi School of Engineering. We used a phone camera to measure incident wave size, an oscillioscope to measure the voltage output of the device, and a differential pressure sensor to measure the difference in pressure on either side of the piston. Data collection instrumentation and example outputs are shown below.
 
 ![](assets/img/portfolio/wec/data-collection.png)
-We wrote a script in NI LabVIEW to control our instrumentation and orchestrate data collection.
+We wrote a script in NI LabVIEW to control our instrumentation and orchestrate data collection. Below is a video of the system in action!
+
+[![wec-test](assets/img/portfolio/wec/wec-test.png)](https://youtu.be/ptgLmCBFp4U?si=9ab0IVuo7szTsavc)
 ### Data Analysis and Presentation
 
 [poster](assets/img/portfolio/wec/poster.svg)
 
 Here's a picture of my teammates (David and Yifan) and me with our poster!
 ![](assets/img/portfolio/wec/team.png)
+
+
+
