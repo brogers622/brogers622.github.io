@@ -99,7 +99,7 @@ en: &DEFAULT_EN
   about:
     title: "Thanks for stopping by!"
     text: ""
-    body: "Please feel free to reach out to me at brogers622@gmail.com\n\nAnd if you're not satiated, here are my [LinkedIn](https://www.linkedin.com/in/brycerogers1/) and [an aesthetically challenged but more comprehensive archive of my work](https://drive.google.com/drive/folders/1L_5epWsr6kS8ybJvb_R5I8qe7pvWViJP?usp=sharing). "
+    body: "Please feel free to reach out to me at brogers622@gmail.com\n\nAnd if you're not satiated, here are my [LinkedIn](https://www.linkedin.com/in/brycerogers1/), [resume](https://github.com/brogers622/portfolio/blob/6afaa1500a38f80493713739359027eaeda9b37e/Bryce%20Rogers%20Resume.pdf), and [an aesthetically challenged but more comprehensive archive of my work](https://drive.google.com/drive/folders/1L_5epWsr6kS8ybJvb_R5I8qe7pvWViJP?usp=sharing). "
     section: about
 
   footer:
