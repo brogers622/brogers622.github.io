@@ -76,7 +76,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Design and Fabrication"
-        desc: "CAD: *SolidWorks, [Fusion 360](https://github.com/brogers622/portfolio/blob/04b1caffd7f8ede7a42b1b5767747df68a2379eb/scuba.png), NX*\n\n
+        desc: "CAD: *SolidWorks, [Fusion 360](https://github.com/brogers622/portfolio/blob/04b1caffd7f8ede7a42b1b5767747df68a2379eb/scuba.png), NX, AutoCAD, Revit*\n\n
         Vectors and Graphics: *Inkscape, [Canva](https://github.com/brogers622/portfolio/blob/6afaa1500a38f80493713739359027eaeda9b37e/Bryce%20Rogers%20Resume.pdf)*\n\n
         Electronic Controls: *Arduino/RaspberryPi, [PID Design](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Report%20-%20two%20degree%20of%20freedom%20controller.pdf), digital measurement and feedback*\n\n
         Prototyping: *3D Printing, Laser Cutting, [3 Axis CNC](assets/img/portfolio/nasa/cnc.png)*"
