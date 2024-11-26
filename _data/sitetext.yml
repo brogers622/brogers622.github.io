@@ -71,7 +71,7 @@ en: &DEFAULT_EN
     end: "To Be Continued..."
 
   services:
-    title: "Skills"
+    title: "Skills test"
     text: "a collection of technical and non-technical abilities"
     section: services
     list:
