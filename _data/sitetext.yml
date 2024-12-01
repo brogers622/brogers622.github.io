@@ -14,19 +14,13 @@ en: &DEFAULT_EN
   team:
     title: "Hi! I'm Bryce"
     text: "Welcome to my digital portfolio"
-    subtext: ">Hello! I'm a Brooklyn-based mechanical engineer with a background in mechanical design and prototyping, biomechanics,
-    fluid simulation and control, and early-stage climate tech startups. In addition to physics-based problem solving, I like to dance, cook for friends,
-    and play games of many kinds.\n\n
+    subtext: ">From NASA instrumentation research to hemodynamic simulation and biomanufacturing for climate startups, I've been lucky to have had the opportunity to apply engineering analysis to diverse and interesting problems.  
     
-    I grew up in the East San Fancisco Bay Area, got my BS in Mechanical Engineering at USC, and currently live in NYC. I've been grateful
-    to have been able to engage in a diversity of technical fields, including exobiology research at NASA Ames,
-    3D CAD contracting for auto parts manufacturing, aortic hemodynamics research, recombinant protein processing, bioreactor design
-    for microbial methanol production, and shrimp-shell-based alternative leather manufacturing.\n\n
+    I grew up in the East Bay and got my BS in Mechanical Engineering at [USC](https://www.google.com/maps/place/University+of+Southern+California/@34.0197702,-118.312157,10077m/data=!3m1!1e3!4m6!3m5!1s0x80c2c7e49c71a5ed:0xaa905a5bb427a2c4!8m2!3d34.0223519!4d-118.285117!16s%2Fm%2F065y4w7?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D).
+    I currently work in the Brooklyn Navy Yard as a Process Engineer at TômTex, a startup developing a sustainable shrimp-shell-based leather. Previously, I assisted exobiology research at NASA Ames, drafted CAD drawings in a CNC shop, coauthored two papers on hemodynamic simulation, co-organized High Impact Engineers, and worked at Edge Foods and CarbonBridge - two sustainability-oriented cellular manufacturing startups.
     
-    In each role I occupy, I pursue the expertise necessary to unlock creative and goal-oriented problem solving.
-    In doing so I've gained an appreciation for many fields' unique subject matters and developed strategies for
-    applied technical learning. I find that even apparently dissimilar technical projects can be tackled via first principles thinking combined with high-level
-    goal orientedness and enthusiastic curiosity!"
+    In each role I occupy, I strive for expertise that unlocks creative problem solving and illuminated connectedness between between apparently dissimilar fields, both technical and nontechnical. Outside of physics-based problem solving, I like to organize swing dances, cook for friends, and play games of many kinds."
+
     section: team
     people:
       - name: "Bryce Rogers"
