@@ -14,13 +14,17 @@ en: &DEFAULT_EN
   team:
     title: "Hi! I'm Bryce"
     text: "Welcome to my digital portfolio"
-    subtext: ">From NASA instrumentation research to hemodynamic simulation and biomanufacturing for climate startups, I've been lucky to have had the opportunity to apply engineering analysis to diverse and interesting problems.  
+    subtext: ">From NASA instrumentation research to hemodynamic simulation and biomanufacturing for climate startups,
+    I've been lucky to have had the opportunity to apply engineering analysis to diverse and interesting problems.\n\n
     
     I grew up in the East Bay and got my BS in Mechanical Engineering at [USC](https://www.google.com/maps/place/University+of+Southern+California/@34.0197702,-118.312157,10077m/data=!3m1!1e3!4m6!3m5!1s0x80c2c7e49c71a5ed:0xaa905a5bb427a2c4!8m2!3d34.0223519!4d-118.285117!16s%2Fm%2F065y4w7?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D).
-    I currently work in the Brooklyn Navy Yard as a Process Engineer at TômTex, a startup developing a sustainable shrimp-shell-based leather. Previously, I assisted exobiology research at NASA Ames, drafted CAD drawings in a CNC shop, coauthored two papers on hemodynamic simulation, co-organized High Impact Engineers, and worked at Edge Foods and CarbonBridge - two sustainability-oriented cellular manufacturing startups.
+    I currently work in the Brooklyn Navy Yard as a Process Engineer at TômTex, a startup developing a sustainable shrimp-shell-based leather.
+    Previously, I assisted exobiology research at NASA Ames, drafted CAD drawings in a CNC shop, coauthored two papers on hemodynamic simulation,
+    co-organized High Impact Engineers, and worked at Edge Foods and CarbonBridge - two sustainability-oriented cellular manufacturing startups.\n\n
     
-    In each role I occupy, I strive for expertise that unlocks creative problem solving and illuminated connectedness between between apparently dissimilar fields, both technical and nontechnical. Outside of physics-based problem solving, I like to organize swing dances, cook for friends, and play games of many kinds."
-
+    In each role I occupy, I strive for expertise that unlocks creative problem solving and illuminates connectedness with other fields.
+    Outside of physics-based problem solving, I like to organize swing dances, cook for friends, and play games of many kinds."
+    
     section: team
     people:
       - name: "Bryce Rogers"
