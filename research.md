@@ -6,9 +6,12 @@ title: Test Page
 	<h2 class="section-heading text-uppercase">Hemodynamic Simulation Research</h2>
 </div>
 
-Between 2020-2022 I had the privilege of working in the biomechanical research lab of [Dr. Niema Pahlevan](https://viterbi.usc.edu/directory/faculty/Pahlevan/Niema). Under the guidance of Dr. Pahlevan and his then-PhD student (now Dr.) [Arian Aghilinejad](https://www.linkedin.com/in/arian-aghilinejad-85828b108/), I coauthored two papers on cardiovascular fluid dynamics.
+I had the privilege of working in [Dr. Niema Pahlevan's](https://viterbi.usc.edu/directory/faculty/Pahlevan/Niema) biomechanical research lab at USC from 2020-2022. Under the guidance of Dr. Pahlevan and his then-PhD student (now Dr.) [Arian Aghilinejad](https://www.linkedin.com/in/arian-aghilinejad-85828b108/), I coauthored two papers on cardiovascular fluid dynamics.
 
-The [first paper](https://github.com/brogers622/portfolio/blob/18c59b9fa894b4369f521322821fec689fcc526e/1st%20coauthored%20paper.pdf) compared vessel pressure and vessel wall displacement during a cardiac cycle in calculating a novel cardiovascular index. The [second paper](https://github.com/brogers622/portfolio/blob/18c59b9fa894b4369f521322821fec689fcc526e/2nd%20coathored%20paper.pdf) explored the frequency-dependent pumping behavior due to cyclic stretching of compliant vesselsin in the direction of their central axis.
+The first paper, [Effects of vessel wall mechanics on non-invasive evaluation of 
+cardiovascular intrinsic frequencies](https://github.com/brogers622/portfolio/blob/18c59b9fa894b4369f521322821fec689fcc526e/1st%20coauthored%20paper.pdf) explored the correlation between fluid pressure inside a blood vessel and the radial displacement of the vessel wall over a cardiac cycle under various physiological conditions
+
+The second paper, (https://github.com/brogers622/portfolio/blob/18c59b9fa894b4369f521322821fec689fcc526e/2nd%20coathored%20paper.pdf) explored the frequency-dependent pumping behavior due to cyclic stretching of compliant vesselsin in the direction of their central axis.
 ### Paper 1
 The first paper investigated intrinsic frequency (IF), a novel index of cardiovascular health proposed by Dr. Pahlevan. The calculation of one's IF requires a measurement of intravascular pressure as a function of time over a cardiac cycle. Like traditional blood pressure measured by a cuff at home or in a clinic, IF is proposed as a holistic indicator of overall cardiovascular functioning. Unfortunately, the invasiveness of measuring intravascular blood pressure limits the universality of IF measurement. It would thus be valuable to have an alternative means of calculating IF that did not require an invasive intravascular pressure measurement. One potential option is the derivation of IF not from a pressure wave, but rather the radial enlargement of a blood vessel that accompanies the pressure changes over a cardiac cycle. This *displacement wave* can be measured non invasively, and inspires the motivating question underlying this paper: *how closely does displacement-based IF approximate pressure-based IF?*
 
@@ -16,7 +19,8 @@ This investigation consisted of an analytical approach handled by my colleagues 
 
 The figure below shows the simplified axisymmetric aorta model I arrived at by assuming that aortic branching, turns/twists, and diameter variation all negligibly affected the wave behavior of interest.
 
-![](assets/img/portfolio/pahlevan/model.png)
+![](brogers622.github.io/assets/img/portfolio/pahlevan/model.png)
+C:\Users\broge\Documents\GitHub\brogers622.github.io\assets\img\portfolio\pahlevan\automation.png
 Using the finite element solver ADINA, I generated a discretized fluid-solid interaction version of the above model. I applied physiologically-relevant boundary and initial conditions, developed and applied vessel wall material models, validated spatial and temporal discretization, ran simulations for multiple cardiac cycles until periodic steady state was reached, then extracted pressure and displacement data and plotted it using Matlab. I executed about 20 different cases manually. Parameters varied between cases included vessel geometry, vessel wall material properties, and inlet blood velocity waveform.
 
 As shown in the plots below, the simulations suggested that displacement-based and pressure-based IF agree strongly if the vessel wall is purely elastic, but error increases with wall viscoelasticity. My colleague's analytical predictions agreed with the data reported by my simulations.
