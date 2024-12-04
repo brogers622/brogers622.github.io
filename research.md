@@ -20,7 +20,7 @@ This investigation consisted of an analytical approach handled by my colleagues 
 
 The figure below shows the simplified axisymmetric aorta model I arrived at by assuming that aortic branching, turns/twists, and diameter variation all negligibly affected the wave behavior of interest.
 
-![](brogers622.github.io/assets/img/portfolio/pahlevan/model.png)
+![simplified aorta model](https://github.com/brogers622/brogers622.github.io/blob/2aa30dddfeb17d2c89a4d5936926fa6599bd1920/assets/img/portfolio/pahlevan/model.png)
 Using the finite element solver ADINA, I generated a discretized fluid-solid interaction version of the above model. I applied physiologically-relevant boundary and initial conditions, developed and applied vessel wall material models, validated spatial and temporal discretization, ran simulations for multiple cardiac cycles until periodic steady state was reached, then extracted pressure and displacement data and plotted it using Matlab. I executed about 20 different cases manually. Parameters varied between cases included vessel geometry, vessel wall material properties, and inlet blood velocity waveform.
 
 As shown in the plots below, the simulations suggested that displacement-based and pressure-based IF agree strongly if the vessel wall is purely elastic, but error increases with wall viscoelasticity. My colleague's analytical predictions agreed with the data reported by my simulations.
@@ -34,14 +34,14 @@ The second paper entailed a similar exploration but with different goals. Wherea
 ![](assets/img/portfolio/pahlevan/radial-pump.png)
 Our paper explored *longitudinal* impedence pumping, illustrated below, in which the cyclic agitation is in the direction of the vessel axis. This type of impedence pump is less studied than its radial counterpart.
 
-![](assets/img/portfolio/pahlevan/longitudinal-pump.png)
+![longitudinal pump diagram](https://github.com/brogers622/brogers622.github.io/blob/2aa30dddfeb17d2c89a4d5936926fa6599bd1920/assets/img/portfolio/pahlevan/longitudinal-pump.png)
 Like the first paper, we undertook both analytical and computational approaches, and I was responsible for the simulations. I used the same software and a similar vessel model, although with some new boundary conditions and material definitions. The video below shows a custom stretch-and-release boundary condition I developed to simulate longitudinal pumping.
 
-![](assets/img/portfolio/pahlevan/vessel.gif)
+![vessel recoil gif](assets/img/portfolio/pahlevan/vessel.gif)
 The primary difference in my experience of and contribution to this paper was the number of cases I needed to simulate. For the first paper I ran about 20 cases manually, which was quite labor intensive and allowed room for user error in naming files, typing parameter values correctly, etc. In the second paper, I needed to generate, execute, and postprocess well over 100 cases with different stretch frequencies, stretch magnitudes, vessel wall stiffnesses, and vessel lengths. Knowing that manual execution of this many cases was not feasible, I sought to automate the process.
 
 Fortunately, ADINA can be operated manually via its UI *or* programmatically by feeding it a .txt file of ADINA commands. In order to automate the entire process, I wrote a script in Matlab to generate two .txt files containing ADINA commands to preprocess and postprocess a case, and a second Matlab script to clean and plot data that was extracted from a case after its successful execution. Finally, I wrote a main script for the command line that fed the parameters of the case to Matlab and orchestrated the transfer of information between ADINA and Matlab. The diagram below illustrates the interaction of Matlab, ADINA, and the command line in this process.
-![](https://github.com/brogers622/brogers622.github.io/blob/248adebd3a29f29c0e736c5a48b2d9629d81d01c/assets/img/portfolio/pahlevan/automation.png)
+![diagram of automation](https://github.com/brogers622/brogers622.github.io/blob/248adebd3a29f29c0e736c5a48b2d9629d81d01c/assets/img/portfolio/pahlevan/automation.png)
 In the end, the simulations and analytical approach predicted a highly frequency depended pumping behavior of the vessel, which could produce a net flow forward, backward, or not at all depending on the frequency.
 ### Acoustic Streaming Research + Presentation
 Before working with Dr. Pahlevan, I also worked under [Dr. Anita Penkova](https://viterbi.usc.edu/directory/faculty/Penkova/Anita) to investigate the fluid dynamics of [acoustic streaming](https://en.wikipedia.org/wiki/Acoustic_streaming#:~:text=Acoustic%20streaming%20is%20a%20steady,waves%20within%20a%20Kundt's%20tube.), a net flow induced by sound waves in a fluid. I investigated the phenomenon using the open source computational fluid dynamics tool OpenFOAM, and presented my team's findings in a virtual undergraduate symposium:
