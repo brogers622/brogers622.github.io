@@ -70,7 +70,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "To Be Continued..."
+    #end: "To Be Continued..."
 
   services:
     title: "Skills"
@@ -101,7 +101,7 @@ en: &DEFAULT_EN
   about:
     title: "Thanks for stopping by!"
     text: ""
-    body: "Here are my [LinkedIn](https://www.linkedin.com/in/brycerogers1/) and [resume](https://github.com/brogers622/portfolio/blob/6afaa1500a38f80493713739359027eaeda9b37e/Bryce%20Rogers%20Resume.pdf) in case you're interested. Please feel free to reach out to me at brogers622@gmail.com\n\n
+    body: "Here are my [LinkedIn](https://www.linkedin.com/in/brycerogers1/) and [resume](https://github.com/brogers622/portfolio/blob/6afaa1500a38f80493713739359027eaeda9b37e/Bryce%20Rogers%20Resume.pdf) in case you're interested. Please feel free to reach out to me at brogers622@gmail.com\n\n"
     section: about
 
   footer:
