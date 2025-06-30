@@ -9,14 +9,14 @@ caption:
   subtitle: sustainability-oriented hard tech startups in NYC
   thumbnail: assets/img/portfolio/startups/thumbnail-startups.png
 ---
-I've worked at four early-stage climate tech companies since moving to NYC at the beginning of 2023: **Edge Foods**, **CarbonBridge**,**TômTex**, and **SIMULATE®**.
+I've worked at four early-stage climate tech companies since moving to NYC at the beginning of 2023: **Edge Foods**, **CarbonBridge**, **TômTex**, and **SIMULATE®**.
 ### SIMULATE, Mechanical Engineering Lead
 After its successful launch of Nuggs, [Simulate](https://simulate.com/) embarked on a new R&D mission to develop a whole plant-based chicken breast product via fiber spinning. I joined the team as Mechanical Engineering Lead work on develop the manufacturing process, design unit operation machines, and implement data collection and process controls.
 A sample of the product is pictured below.
-![](assets/img/portfolio/startups/chicken.png)
+
+![](assets/img/portfolio/startups/chicken.PNG)
 And here are some bits of the process! Owing to the product being composed of wet-spun edible fibers, our process borrowed from both the food and textile industries. Fibers were extruded and processed continuously on the production line. I designed custom machines and procured off the shelf systems for the line.
 
-![](assets/img/portfolio/startups/fiber-extrusion.gif | width=100)
 ![](assets/img/portfolio/startups/fiber-extrusion.gif)
 ![](assets/img/portfolio/startups/press-roller.gif)
 ![](assets/img/portfolio/startups/heated-godet.gif)
