@@ -1,6 +1,6 @@
 ---
 title: Hard Tech for Climate
-subtitle: Overview of my work at three sustainability-oriented hard tech startups in NYC
+subtitle: Overview of my work at four sustainability-oriented hard tech startups in NYC
 [//]: # image: assets/img/portfolio/02-full.jpg
 [//]: # alt: Keep Exploring
 
@@ -9,7 +9,10 @@ caption:
   subtitle: sustainability-oriented hard tech startups in NYC
   thumbnail: assets/img/portfolio/startups/thumbnail-startups.png
 ---
-I've worked at three early-stage climate tech companies since moving to NYC at the beginning of 2023: **Edge Foods**, **CarbonBridge**, and **TômTex**.
+I've worked at four early-stage climate tech companies since moving to NYC at the beginning of 2023: **Edge Foods**, **CarbonBridge**,**TômTex**, and **SIMULATE®**.
+### SIMULATE, Mechanical Engineering Lead
+After its successful launch of Nuggs, [Simulate](https://simulate.com/) embarked on a new R&D mission to develop a plasnt based fiber-spun chicken breast product. I joined the team as Mechanical Engineering Lead work on process development, machine design, and data collection+process controls.  
+
 ### CarbonBridge, Mechanical Engineer
 [CarbonBridge](https://carbonbridge.io/) is a pre-seed startup currently headquartered at the [HAX space in Newark](https://hax.co/). CarbonBridge converts methane waste gas to liquid methanol fuel via direct-gas bacterial fermentation.
 
