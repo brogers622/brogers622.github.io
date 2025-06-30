@@ -11,7 +11,14 @@ caption:
 ---
 I've worked at four early-stage climate tech companies since moving to NYC at the beginning of 2023: **Edge Foods**, **CarbonBridge**,**TômTex**, and **SIMULATE®**.
 ### SIMULATE, Mechanical Engineering Lead
-After its successful launch of Nuggs, [Simulate](https://simulate.com/) embarked on a new R&D mission to develop a plasnt based fiber-spun chicken breast product. I joined the team as Mechanical Engineering Lead work on process development, machine design, and data collection+process controls.  
+After its successful launch of Nuggs, [Simulate](https://simulate.com/) embarked on a new R&D mission to develop a whole plant-based chicken breast product via fiber spinning. I joined the team as Mechanical Engineering Lead work on develop the manufacturing process, design unit operation machines, and implement data collection and process controls.
+A sample of the product is pictured below.
+![](assets/img/portfolio/startups/chicken.png)
+And here are some bits of the process! Owing to the product being composed of wet-spun edible fibers, our process borrowed from both the food and textile industries. Fibers were extruded and processed continuously on the production line. I designed custom machines and procured off the shelf systems for the line.
+![](assets/img/portfolio/startups/fiber-extrusion.gif)
+![](assets/img/portfolio/startups/press-roller.gif)
+![](assets/img/portfolio/startups/press-roller.gif)
+![](assets/img/portfolio/startups/emulsion-application.gif)
 
 ### CarbonBridge, Mechanical Engineer
 [CarbonBridge](https://carbonbridge.io/) is a pre-seed startup currently headquartered at the [HAX space in Newark](https://hax.co/). CarbonBridge converts methane waste gas to liquid methanol fuel via direct-gas bacterial fermentation.
