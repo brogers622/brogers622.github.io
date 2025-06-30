@@ -15,9 +15,10 @@ After its successful launch of Nuggs, [Simulate](https://simulate.com/) embarked
 A sample of the product is pictured below.
 ![](assets/img/portfolio/startups/chicken.png)
 And here are some bits of the process! Owing to the product being composed of wet-spun edible fibers, our process borrowed from both the food and textile industries. Fibers were extruded and processed continuously on the production line. I designed custom machines and procured off the shelf systems for the line.
+<img src="assets/img/portfolio/startups/fiber-extrusion" alt="drawing" width="200"/>
 ![](assets/img/portfolio/startups/fiber-extrusion.gif)
 ![](assets/img/portfolio/startups/press-roller.gif)
-![](assets/img/portfolio/startups/press-roller.gif)
+![](assets/img/portfolio/startups/heated-godet.gif)
 ![](assets/img/portfolio/startups/emulsion-application.gif)
 
 ### CarbonBridge, Mechanical Engineer
