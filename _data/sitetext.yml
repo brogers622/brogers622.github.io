@@ -79,9 +79,9 @@ en: &DEFAULT_EN
     list:
       - title: "Design+Prototyping"
         desc: "CAD: *SolidWorks, [Fusion 360](https://github.com/brogers622/portfolio/blob/04b1caffd7f8ede7a42b1b5767747df68a2379eb/scuba.png), NX, AutoCAD*\n\n
-        Physical process design: *first-principles modelling, technoeconomic analysis, equipment design/sourcing*\n\n
+        Process design: *first-principles modelling, technoeconomic analysis, equipment design/sourcing*\n\n
         Fabrication: *3D Printing, Laser Cutting, [3 Axis CNC](assets/img/portfolio/nasa/cnc.png)*, manual lathe\n\n
-        Facilities setup: *ergonomic floorplanning, equipment MEP, air/water/electric setup*"
+        Facilities setup: *[production floorplanning](https://github.com/brogers622/portfolio/blob/d19756b35148ab30f9143d7936e1f66117df6c75/floorplan.pdf), equipment MEP, air/water/electric setup*"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Computation+Controls"
         desc: "Programming: *[Matlab](assets/img/skills/interactive-map.gif), Mathematica, Python, command line, Github*\n\n
@@ -90,7 +90,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "Breadth+Ambition"
         desc: ">[Technical Writing](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Final%20Report.pdf)\n\n
-        Biology: *[cell culture](assets/img/skills/cell-count.gif), protein filtration, [freeze drying](assets/img/skills/freeze-dry.gif)*\n\n
+        [Cell culture](assets/img/skills/cell-count.gif): *passaging, suspension adaptation, protein purification, [freeze drying](assets/img/skills/freeze-dry.gif)*\n\n
         [Catering](https://www.imdb.com/title/tt33295155/fullcredits/?ref_=tt_cl_sm)\n\n
         [Social Dance Production](assets/img/portfolio/non-technical/social1.gif)"
         icon: fa fa-arrows-alt
