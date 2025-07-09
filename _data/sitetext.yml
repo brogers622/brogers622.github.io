@@ -79,16 +79,14 @@ en: &DEFAULT_EN
     list:
       - title: "Design+Prototyping"
         desc: "CAD: *SolidWorks, [Fusion 360](https://github.com/brogers622/portfolio/blob/04b1caffd7f8ede7a42b1b5767747df68a2379eb/scuba.png), NX, AutoCAD*\n\n
-        First principles physical process design\n\n
-        Fabrication: *3D Printing, Laser Cutting, [3 Axis CNC](assets/img/portfolio/nasa/cnc.png)*, manual lathe"
+        Physical process design: *first-principles modelling, technoeconomic analysis, equipment design/sourcing*\n\n
+        Fabrication: *3D Printing, Laser Cutting, [3 Axis CNC](assets/img/portfolio/nasa/cnc.png)*, manual lathe\n\n
+        Facilities setup: *ergonomic floorplanning, equipment MEP, air/water/electric setup*"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Computation+Controls"
-        desc: "Computation and Graphics: *[Matlab](assets/img/skills/interactive-map.gif), Mathematica, Python*\n\n
-        Experimental Design: *NI LabVIEW*\n\n
-        CFD: *[ADINA](assets/img/portfolio/pahlevan/vessel.gif), ANSYS Fluent, [OpenFOAM](https://youtu.be/Pq0JhbtJkws?si=ns01ELJHgUCjwTm9)*\n\n
-        Electronic Controls: *Arduino/RaspberryPi, [PID Design](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Report%20-%20two%20degree%20of%20freedom%20controller.pdf), digital measurement and feedback*\n\n
-        Bash\n\n
-        Github"
+        desc: "Programming: *[Matlab](assets/img/skills/interactive-map.gif), Mathematica, Python, command line, Github*\n\n
+        Controls: *ESP32, [PID Design](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Report%20-%20two%20degree%20of%20freedom%20controller.pdf), NI LabVIEW, analog and digital communication*\n\n
+        CFD: *[ADINA](assets/img/portfolio/pahlevan/vessel.gif), ANSYS Fluent, [OpenFOAM](https://youtu.be/Pq0JhbtJkws?si=ns01ELJHgUCjwTm9)*"
         icon: fas fa-laptop
       - title: "Breadth and Ambition"
         desc: ">Techno-Economic Analysis\n\n
