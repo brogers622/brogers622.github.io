@@ -86,11 +86,10 @@ en: &DEFAULT_EN
       - title: "Computation+Controls"
         desc: "Programming: *[Matlab](assets/img/skills/interactive-map.gif), Mathematica, Python, command line, Github*\n\n
         Controls: *ESP32, [PID Design](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Report%20-%20two%20degree%20of%20freedom%20controller.pdf), NI LabVIEW, analog and digital communication*\n\n
-        CFD: *[ADINA](assets/img/portfolio/pahlevan/vessel.gif), ANSYS Fluent, [OpenFOAM](https://youtu.be/Pq0JhbtJkws?si=ns01ELJHgUCjwTm9)*"
+        CFD: *[ADINA](assets/img/portfolio/pahlevan/vessel.gif), [OpenFOAM](https://youtu.be/Pq0JhbtJkws?si=ns01ELJHgUCjwTm9)*"
         icon: fas fa-laptop
-      - title: "Breadth and Ambition"
-        desc: ">Techno-Economic Analysis\n\n
-        [Technical Writing](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Final%20Report.pdf)\n\n
+      - title: "Breadth+Ambition"
+        desc: ">[Technical Writing](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Final%20Report.pdf)\n\n
         Bioprocessing: *[cell culture](assets/img/skills/cell-count.gif), protein filtration, [freeze drying](assets/img/skills/freeze-dry.gif)*\n\n
         [Catering](https://www.imdb.com/title/tt33295155/fullcredits/?ref_=tt_cl_sm)\n\n
         [Social Dance Production](assets/img/portfolio/non-technical/social1.gif)"
