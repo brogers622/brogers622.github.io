@@ -84,13 +84,15 @@ en: &DEFAULT_EN
         Facilities setup: *[production floorplanning](https://github.com/brogers622/portfolio/blob/d19756b35148ab30f9143d7936e1f66117df6c75/floorplan.pdf), equipment air/water/electrical*"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Computation+Controls"
-        desc: "Programming: *[Matlab](assets/img/skills/interactive-map.gif), Mathematica, Python, command line, Github*\n\n
+        desc: "Programming: *[Matlab](assets/img/skills/interactive-map.gif), Mathematica, [Python](https://github.com/brogers622/portfolio/blob/3d0c009c1b6d7afa441a601234a10705c1ab6d7e/pH%20and%20CaCl%20concentrations.png), command line, [GitHub](https://github.com/brogers622)*\n\n
         Controls: *ESP32, [PID Design](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Report%20-%20two%20degree%20of%20freedom%20controller.pdf), NI LabVIEW, analog and digital communication*\n\n
+        [Discrete Signal Analysis](https://github.com/brogers622/portfolio/blob/ffd36747e71ad3e144304a27ee56529ebd853931/Discrete%20signal%20analysis.pdf)\n\n
         CFD: *[ADINA](assets/img/portfolio/pahlevan/vessel.gif), [OpenFOAM](https://youtu.be/Pq0JhbtJkws?si=ns01ELJHgUCjwTm9)*"
         icon: fas fa-laptop
       - title: "Breadth+Ambition"
         desc: ">[Technical Writing](https://github.com/brogers622/portfolio/blob/64a3e6f8874ff6110cf48e0aaaf6ff31f416f632/Final%20Report.pdf)\n\n
         [Cell culture](assets/img/skills/cell-count.gif): *passaging, suspension adaptation, protein purification, [freeze drying](assets/img/skills/freeze-dry.gif)*\n\n
+        Tutoring/Teaching\n\n
         [Catering](https://www.imdb.com/title/tt33295155/fullcredits/?ref_=tt_cl_sm)\n\n
         [Social Dance Production](assets/img/portfolio/non-technical/social1.gif)"
         icon: fa fa-arrows-alt
