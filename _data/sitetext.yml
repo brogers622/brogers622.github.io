@@ -81,7 +81,7 @@ en: &DEFAULT_EN
         desc: "CAD: *SolidWorks, [Fusion 360](https://github.com/brogers622/portfolio/blob/04b1caffd7f8ede7a42b1b5767747df68a2379eb/scuba.png), NX, AutoCAD*\n\n
         Process design: *first-principles modelling, technoeconomic analysis, equipment design/sourcing*\n\n
         Fabrication: *3D Printing, Laser Cutting, [3 Axis CNC](assets/img/portfolio/nasa/cnc.png)*, manual lathe\n\n
-        Facilities setup: *[production floorplanning](https://github.com/brogers622/portfolio/blob/d19756b35148ab30f9143d7936e1f66117df6c75/floorplan.pdf), equipment MEP, air/water/electric setup*"
+        Facilities setup: *[production floorplanning](https://github.com/brogers622/portfolio/blob/d19756b35148ab30f9143d7936e1f66117df6c75/floorplan.pdf), equipment air/water/electrical*"
         icon: fas fa-cogs #find more at https://fontawesome.com/icons
       - title: "Computation+Controls"
         desc: "Programming: *[Matlab](assets/img/skills/interactive-map.gif), Mathematica, Python, command line, Github*\n\n
