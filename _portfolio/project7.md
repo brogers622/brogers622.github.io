@@ -19,6 +19,7 @@ I've catered three film sets for friends: ODDLOOP short dance film, [BOYS music 
 Lindy Hop - an early 20th century Harlem swing dance - has been a big part of my life in New York. Early in the Summer of 2024, I achieved my dream of hosting a Lindy Hop social in my backyard! It was heartful potluck with several hours of dancing, shown below (I'm in the blue shirt!).
 
 ![](assets/img/portfolio/non-technical/social1.gif)
+
 At the end of the Summer I hosted another social, bigger and with live music!
 
 ![](assets/img/portfolio/non-technical/social2.gif)
