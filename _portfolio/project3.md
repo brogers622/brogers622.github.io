@@ -9,9 +9,9 @@ caption:
   subtitle: design, fabrication, testing
   thumbnail: assets/img/portfolio/wec/thumbnail-wec.png
 ---
-In the final semester of our mechanical engineering bachelors at USC, two other students and I designed and fabricated a novel device that converted water wave energy to electrical energy. The process is summarized below; for more detailed descriptions feel free to check out the [final report](assets/img/portfolio/wec/report.pdf) and [presentation slides](assets/img/portfolio/wec/slides.pdf).
+In the final semester of our mechanical engineering bachelors at USC, two fellow students and I designed and fabricated a novel device that converted water wave energy to electrical energy. The process is summarized below; for more detailed descriptions feel free to check out the [final report](assets/img/portfolio/wec/report.pdf) and [presentation slides](assets/img/portfolio/wec/slides.pdf).
 ### Design
-The goal of the device was to convert a portion of a water wave's kinetic and potential energy to electrical energy by leveraging pressure variation over it's wavelength. A diagram of the device is shown below:
+The goal of the device was to convert a portion of a water wave's kinetic and potential energy to electrical energy by leveraging variation of pressure along the length of a wave. A diagram of the device is shown below:
 
 ![](assets/img/portfolio/wec/diagram.png)
 
@@ -21,7 +21,7 @@ The system is submerged in shallow water, and waves propagate from left to right
 
 The piston has a magnet inside of it, and a solenoid is coiled around the exterior of the tube. Consequently, as the piston-magnet oscillates in the tube, a portion of its kinetic energy is converted electromagnetically to electrical energy.
 
-Some of the main design considerations included box/orifice dimensions, how to seal membrane over orifice, tube diameter, box separation distance, and material selection.
+Some of the key design parameters included box/orifice dimensions, how to seal membrane over orifice, tube diameter, box separation distance, and material selection.
 ### Fabrication
 Acrylic was selected to construct most of the system due to its low cost, water proofness, and ease of laser cutting. Rubber sheet was used as the compliant membrane. A piston was machined out of an acrylic rod. The piston with magnets and a box are shown below.
 
@@ -44,5 +44,7 @@ The inputs of interest were incident wave amplitude [cm] and frequency [Hz]. The
 We found the efficiency of conversion was very low, but that the system produced a significant amount of electrical power. Power output increased with incident wave amplitude and had an incident wave frequency 'sweet spot' around 0.5-0.7Hz. The maximum efficiency was around 0.05% and the maximum power output was 14mW. Our findings are summarized in the chart below.
 
 ![](assets/img/portfolio/wec/wec-results.png)
+
 Here is a [poster summary](assets/img/portfolio/wec/poster.pdf) of our findings that we presented at an end-of-semester showcase. And here is a photo of my teammates (David and Yifan) and me with our poster!
+
 ![](assets/img/portfolio/wec/team.png)
