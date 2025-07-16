@@ -1,65 +1,45 @@
 ---
-title: Hard Tech for Climate
-subtitle: Overview of my work at four sustainability-oriented hard tech startups in NYC
-[//]: # image: assets/img/portfolio/02-full.jpg
-[//]: # alt: Keep Exploring
+title: Hemodynamics Research Papers
+subtitle: Blood and vessel dynamics papers coauthored under Dr. Niema Pahlevan, 2020-2022
+[//]: # image:
+[//]: # alt: Research
 
 caption:
-  title: Hard Tech for Climate
-  subtitle: sustainability-oriented hard tech startups in NYC
-  thumbnail: assets/img/portfolio/startups/thumbnail-startups.png
+  title: Hemodynamics Research Papers
+  subtitle: Viterbi School of Engineering
+  thumbnail: assets/img/portfolio/pahlevan/thumbnail-field.png
 ---
-I've worked at four early-stage climate tech companies since moving to NYC at the beginning of 2023: **Edge Foods**, **CarbonBridge**, **TômTex**, and **SIMULATE®**.
-### SIMULATE | Mechanical Engineering Lead
-After its successful launch of Nuggs, [Simulate](https://simulate.com/) embarked on a new R&D mission to develop a whole plant-based chicken breast product via fiber spinning. I joined the team as Mechanical Engineering Lead work on develop the manufacturing process, design unit operation machines, and implement data collection and process controls.
-A sample of the product is pictured below.
+Between 2020-2022 I had the privilege of working in the biomechanical research lab of [Dr. Niema Pahlevan](https://viterbi.usc.edu/directory/faculty/Pahlevan/Niema). Under the guidance of Dr. Pahlevan and his then-PhD student (now Dr.) [Arian Aghilinejad](https://www.linkedin.com/in/arian-aghilinejad-85828b108/), I coauthored two papers on cardiovascular fluid dynamics.
 
-![](assets/img/portfolio/startups/chicken.PNG)
-And here are some bits of the process! Owing to the product being composed of wet-spun edible fibers, our process borrowed from both the food and textile industries. Fibers were extruded and processed continuously on the production line. I designed custom machines and procured off the shelf systems for the line.
+The [first paper](https://github.com/brogers622/portfolio/blob/18c59b9fa894b4369f521322821fec689fcc526e/1st%20coauthored%20paper.pdf) blood vessel dilation as a noninvasive proxy for vessel pressure over a cardiac cycle for the calculation of a proposed cardiovascular health index. The [second paper](https://github.com/brogers622/portfolio/blob/18c59b9fa894b4369f521322821fec689fcc526e/2nd%20coathored%20paper.pdf) explored the frequency-dependent pumping behavior exhibited by compliant vessels under cyclic axial stretching.
+### Paper 1
+The first paper investigated **intrinsic frequency** (IF), a novel index of cardiovascular health proposed by Dr. Pahlevan. Calculation of IF requires measurement of pressure inside a vessel as a function of time during a cardiac cycle. Like traditional blood pressure measured by an inflating cuff, IF is proposed as a holistic indicator of overall cardiovascular functioning. Unfortunately, the invasiveness of intravascular blood pressure measurement limits the universality of IF assessment. It would thus be valuable to have a proxy for the intravascular pressure wave that can be measured *noninvasively*. One option for this is the radial displacement of the blood vessel during a cardiac cycle, ie how much the vessel enlarges. This *displacement wave* can be measured non invasively, and inspires the motivating question underlying this paper: **how closely does displacement-based IF approximate pressure-based IF?**
 
-![](assets/img/portfolio/startups/fiber-extrusion.gif)
-![](assets/img/portfolio/startups/press-roller.gif)
-![](assets/img/portfolio/startups/heated-godet.gif)
-![](assets/img/portfolio/startups/emulsion-application.gif)
+This investigation consisted of an analytical approach handled by my colleagues and a computational approach handled by me. I used computational fluid dynamics tools to simulate an aorta during a cardiac cycle under various physiological conditions, then extracted pressure and displacement data from the simulations for IF analysis.
 
-### CarbonBridge | Mechanical Engineer
-[CarbonBridge](https://carbonbridge.io/) is a pre-seed startup currently headquartered at the [HAX space in Newark](https://hax.co/). CarbonBridge converts methane waste gas to liquid methanol fuel via direct-gas bacterial fermentation.
+The figure below shows the simplified axisymmetric aorta model I used, which assumes that aortic branching, turns/twists, and diameter variation all negligibly affect the wave behavior of interest.
 
-My responsibilities as a mechanical engineer included bioreactor design, fluid control, temperature control, downstream process design, scaling planning, and miscellaneous engineering and experimentation support tasks. Show below left is an off-the shelf membrane filter holder I selected as an early bioreactor for CarbonBridge's methanol producing bacteria. Below right is this filter holder in a fluid control circuit with a syringe pump programmed to deliver gas and liquid at predetermined intervals. This system allowed the biology team to run experiments quickly and repeatedly, and produced significantly higher titers of methanol than were previously produced.
+![](assets/img/portfolio/pahlevan/model.png)
+Using the finite element solver ADINA, I generated a discretized fluid-solid interaction version of the above model. I applied physiologically-relevant boundary and initial conditions, developed vessel wall material models, validated spatial and temporal discretization, ran simulations for multiple cardiac cycles until periodic steady state was reached, then extracted pressure and displacement data and plotted it in Matlab. I executed about 20 different cases, which varied in vessel geometry, vessel wall material properties, and inlet blood velocity waveform.
 
-![](assets/img/portfolio/startups/small-reactor.png)
-The above reactor has a diameter of about 5cm. Once its successful use was demonstrated, I designed and manufactured an 8in diameter version, shown below alone and attached to its fluid control circuit. The fluid control was performed by a peristaltic pump and an Arduino microcontroller. In part due to the success of this system, CarbonBridge was selected for a [Greenwells grant by ARPA-E](https://www.linkedin.com/posts/carbonbridge_arpaegreenwells-decarbonize-methanol-activity-7226101649805635585-ts0E?utm_source=share&utm_medium=member_desktop).
+As shown in the plots below, the simulations suggested that displacement-based and pressure-based IF agree strongly if the vessel wall is purely elastic, but error increases with wall viscoelasticity. My colleague's analytical predictions agreed with the data reported by my simulations.
 
-![](assets/img/portfolio/startups/big-reactor.png)
-##### Temperature Control System for Bacteria Incubators
-Additionally, I built a temperature feedback control system for three bacteria incubators, shown below. Each control system consisted of a heated blanket wrapped around the incubator, a thermocouple sensor to measure incubator temperature, a relay to switch on/off power to the blanket, and a programmable PID controller to control the relay.
+![](assets/img/portfolio/pahlevan/plots1.png)
+### Paper 2
+The second paper entailed a similar exploration but with different goals. Whereas the first paper had more immediate clinical relevance, this paper was a fundamental physics exploration of the pumping behavior of compliant vessels under longitudinal stretching.
 
-![](assets/img/portfolio/startups/temp-control.png)
-### Edge Foods | Lead Biomechanical Engineer
-Edge Foods was an early stage food tech startup that produced growth factors for lab grown meat using genetically engineered mammalian cells. As Lead Biomechanical Engineer, I led bioreactor design, downstream process design, technoeconomic analysis of our product, and scaling planning. I also assisted with the biology and cell caretaking.
+*Impedence pumping* is a valveless pumping effect in which a net flow arises in a tube due periodic agitation of a flexible vessel wall. The most common type of impedence pump is the *radial impedence pump*, illustrated in the diagram below, in which the vessel wall is compressed radially and released in a periodic fashion. Depending on vessel geometry and compression frequency, this can result in a net flow.
 
-##### Electrostatic Bead Generator
-The video below demonstrates the functioning of an electrostatic bead generator I designed and assembled. The system extruded droplets of sodium alginate out of a syringe into a bath of calcium chloride. When the sodium alginate contacted the calcium chloride it congealed into a solid gel almost instantly. The size of the beads could be modulated by adjusting the voltage applied between the bath and the syringe, which applied an electric force to the beads that pulled them off the syringe tip.
+![](assets/img/portfolio/pahlevan/radial-pump.png)
 
-By suspending cells in the sodium alginate before it was extruded into the bath, cells could be encapsulated by the gel beads. This allowed the cells to survive higher shear stresses in a stirred bioreactor while still allowing nutrient transport into the bead and waste transport out.
+Our paper explored *longitudinal* impedence pumping, illustrated below, in which the cyclic agitation is in the direction of the vessel axis. This type of impedence pump is less studied than its radial counterpart.
 
-[![](assets/img/portfolio/startups/electrostatic.png)](https://youtu.be/DudUC4S9mcY?si=iVcPpXFxJVsZcAIo)
-##### Bioreactor Design
-At lab scale, we used a simple shaken bioreactor geometry. By integrating sensors I developed a cost effective bioreactor that collected pH and dissolved oxygen data in real time and used these readings to control an automated feeding mechanism. 
+![](assets/img/portfolio/pahlevan/longitudinal-pump.png)
+Like the first paper, we undertook both analytical and computational approaches, and I was responsible for the simulations. I used the same software and a similar vessel model, although with some new boundary conditions and material definitions. The gif below shows a custom stretch-and-release boundary condition I developed to simulate longitudinal pumping.
 
-![](assets/img/portfolio/startups/edge-reactor.png)
-##### Suspension and serum-free adaptation of mammalian cell clumps
-By default, most mammalian cells require a surface to adhere to and supplementation with fetal bovine serum - a cell culture supplement that is highly popular but has questionable cost and ethics. Together with the biology team, I successfully adapted adherent mammalian cells (HEK cells and CHO cells) to be serum-free and suspended in clumps. This adaptation enabled ethical, affordable scaling of our process in suspension bioreactors.
+![](assets/img/portfolio/pahlevan/vessel.gif)
+This investigation required the simulation of >100 unique conditions, as compared to ~20 for the first paper which I generated, executed, and postprocessed manually. Running this many cases by hand was not advisable due to time constraints and risk user error - I thus sought to automate the simulation process.
 
-### TômTex | Process Engineer
-TômTex is a biomaterials startup that makes a sustainable leather alternative out of shrimp shells. Below is an example of the leather material (which I did not make). After the sheets of raw leather are produced they require several downstream processing steps, mostly consisting of chemical soaks. As a process engineer, I design and assemble hardware systems for the automation and scale up of these chemical processing steps.
-
-![](assets/img/portfolio/startups/wallet.png)
-My primary project has been to design and build a 50+ gallon automated chemical bath to treat rolls of leather. The system consists of one main drum with a roll of leather placed inside it vertically, 4 drums of treatment chemicals (acid, base, etc), and mechanics+electronics+controls to automatically fill and drain the main barrel in the correct sequence.
-
-The project is ongoing - most of the design is complete and early assembly has begun. The model below shows the approximate layout of the hydraulics, electronics, and chemical drums.
-
-![](assets/img/portfolio/startups/layout.png)
-Below the partially assembled tubing, valves, pumps, and frame are shown:
-
-![](assets/img/portfolio/startups/progress.png)
+Fortunately, ADINA can be operated programmatically by feeding it a .txt file of ADINA-language commands. To automate the entire process, I wrote a script in Matlab to generate ADINA command files to preprocess and postprocess a case, and a second Matlab script to clean and plot data that was extracted from a case after its successful execution. Finally, I wrote a main script for the command line that orchestrated the transfer of information between ADINA and Matlab. The diagram below illustrates the interaction of Matlab, ADINA, and the command line in this process.
+![](assets/img/portfolio/pahlevan/automation.png)
+In the end, the simulations and analytical approach predicted a highly frequency depended pumping behavior of the vessel, which could produce a net flow forward, backward, or not at all depending on the frequency.
