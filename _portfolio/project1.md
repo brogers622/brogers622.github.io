@@ -11,13 +11,13 @@ caption:
 ---
 I've worked at four early-stage climate tech companies since moving to NYC in 2023: **Edge Foods**, **CarbonBridge**, **TômTex**, and **SIMULATE®**.
 ### SIMULATE | Mechanical Engineering Lead
-After its successful launch of Nuggs, [Simulate](https://simulate.com/) embarked on a new R&D mission to develop a whole plant-based chicken breast product via fiber spinning. The product, pictured below, is made of [wet spun](https://en.wikipedia.org/wiki/Spinning_(polymers)) soy protein - an unusual process that marries the food and textile industries. I joined the team as Mechanical Engineering Lead to improve and scale this process.
+After its successful launch of Nuggs, [Simulate](https://simulate.com/) embarked on a new R&D mission to develop a whole plant-based chicken breast product via fiber spinning. The product, pictured below, is made of [wet spun](https://en.wikipedia.org/wiki/Spinning_(polymers)) soy protein - an unusual marriage of the food and textile industries. I joined the team as Mechanical Engineering Lead to improve and scale this process.
 
 ![](assets/img/portfolio/startups/chicken.PNG)
 Our core process was continuous fiber handling, which at a high level consisted of extrusion, in line fiber conditioning, and finally collection. The media below show several unit processes executed by machines that I was responsible to procure off the shelf or design+assemble in house.
-Our soy protein solution is extruded through a spinneret into coagulation bath to make fibers. At this point the process transforms from continuous fluid handling to continuous solid fiber handling. 
-![](assets/img/portfolio/startups/fiber-extrusion.gif)
 
+Our soy protein solution is extruded through a spinneret into coagulation bath to make fibers. At this point the process transforms from continuous fluid handling to continuous solid fiber handling. 
+![](assets/img/portfolio/startups/fiber-extrusion.gif)  
 Fibers are washed, then excess water is pressed out.
 ![](assets/img/portfolio/startups/press-roller.gif)
 
@@ -33,10 +33,10 @@ I used an ESP32, shown below with other process elctronics in a housing, to log 
 
 ![](assets/img/portfolio/startups/junction-box.jpg)
 
-Autonomous+remote data collection was established in 3 steps:
-1 - In line sensors (pH, conductivity, mass flow, pressure) take a measurement and transmit it via wired digital or analog signal to the ESP32
-2 - ESP32 transmits the data via WiFi to our Google Drive
-3 - The data is plotted live in a dashboard for real-time process monitoring.
+Autonomous+remote data collection was established in 3 steps:  
+1 - In line sensors (pH, conductivity, mass flow, pressure) take a measurement and transmit it via wired digital or analog signal to the ESP32  
+2 - ESP32 transmits the data via WiFi to our Google Drive  
+3 - The data is plotted live in a dashboard for real-time process monitoring.  
 The gif below shows an off-line demo of live data collection.
 ![](assets/img/portfolio/startups/dashboard-demo.gif)
 ### CarbonBridge | Mechanical Engineer
