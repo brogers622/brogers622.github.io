@@ -16,27 +16,22 @@ After its successful launch of Nuggs, [Simulate](https://simulate.com/) embarked
 ![](assets/img/portfolio/startups/chicken.PNG)
 Our core process was continuous fiber handling, which at a high level consisted of extrusion, in line fiber conditioning, and finally collection. The media below show several unit processes executed by machines that I was responsible to procure off the shelf or design+assemble in house.
 
-Our soy protein solution is extruded through a spinneret into coagulation bath to make fibers. At this point the process transforms from continuous fluid handling to continuous solid fiber handling. 
+Our soy protein solution is extruded through a spinneret into coagulation bath to make fibers. At this point the process transforms from continuous fluid handling to continuous solid fiber handling.  
 ![](assets/img/portfolio/startups/fiber-extrusion.gif)  
-Fibers are washed, then excess water is pressed out.
-![](assets/img/portfolio/startups/press-roller.gif)
-
-Conditioning of fibers by heated roller
-![](assets/img/portfolio/startups/heated-godet.gif)
-
-Fibers are coated; this coating is later cured to emulate the connective tissue among muscle fibers in a real chicken breast.
-![](assets/img/portfolio/startups/emulsion-application.gif)
-
+Fibers are washed, then excess water is pressed out.  
+![](assets/img/portfolio/startups/press-roller.gif)  
+Conditioning of fibers by heated roller  
+![](assets/img/portfolio/startups/heated-godet.gif)  
+Fibers are coated; this coating is later cured to emulate the connective tissue among muscle fibers in a real chicken breast.  
+![](assets/img/portfolio/startups/emulsion-application.gif)  
 Several process variables required tight control to achieve product consistency, such as coagulation bath pH and extrusion mass flow rate. To attain process consistency and legibility, I took the lead on controls+data collection.
 
-I used an ESP32, shown below with other process elctronics in a housing, to log data and control the process. I felt an ESP32 would be more appropriate than a PLC due to cost, non-proprietary flexibility, and relatively low need for IO pins and processing power at our scale.
-
-![](assets/img/portfolio/startups/junction-box.jpg)
-
+I used an ESP32, shown below with other process elctronics in a housing, to log data and control the process. I felt an ESP32 would be more appropriate than a PLC due to cost, non-proprietary flexibility, and relatively low need for IO pins and processing power at our scale.  
+![](assets/img/portfolio/startups/junction-box.jpg)  
 Autonomous+remote data collection was established in 3 steps:  
-1 - In line sensors (pH, conductivity, mass flow, pressure) take a measurement and transmit it via wired digital or analog signal to the ESP32  
-2 - ESP32 transmits the data via WiFi to our Google Drive  
-3 - The data is plotted live in a dashboard for real-time process monitoring.  
+**1** In line sensors (pH, conductivity, mass flow, pressure) take a measurement and transmit it via wired digital or analog signal to the ESP32  
+**2** ESP32 transmits the data via WiFi to our Google Drive  
+**3** The data is plotted live in a dashboard for real-time process monitoring.  
 The gif below shows an off-line demo of live data collection.
 ![](assets/img/portfolio/startups/dashboard-demo.gif)
 ### CarbonBridge | Mechanical Engineer
